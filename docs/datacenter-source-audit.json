@@ -1,0 +1,4480 @@
+{
+  "checked": "2026-11-02",
+  "policy": "官网与项目公告优先；同一公告转载不算独立信源。新闻用于交叉核对；X 官方与专家帖子区分陈述和估算；维基用于背景与原始引文。核查日期 2026-11-02，不代表实时更新。",
+  "projects": [
+    {
+      "id": "deepseek-ulanchab-firefly",
+      "name": "DeepSeek 乌兰察布项目线索（待官方确认）",
+      "company": "DeepSeek (深度求索 / 幻方量化)",
+      "companyTag": "DeepSeek",
+      "category": "AI大模型独角兽",
+      "region": "大中华区",
+      "location": "中国内蒙古自治区乌兰察布市察哈尔开发区",
+      "lat": 41.0258,
+      "lng": 113.125,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "仅找到乌兰察布新建项目的媒体线索；原来的已运营 200 MW、2 万卡和 R1 训练地点缺少可归属证据，撤下这些数值。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "DeepSeek-V3 技术报告",
+            "https://arxiv.org/abs/2412.19437"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "DeepSeek 乌兰察布“草原云谷”超级智算基地",
+        "powerMW": "200+ MW (持续扩建并网)",
+        "investment": "数十亿元投入 (自研异构超算与通信拓扑)",
+        "gpuCount": "超 20,000+ 张高密度异构加速卡集群 (万卡双向多流训练池)",
+        "status": "operational",
+        "description": "真正孕育出轰动全球科技界的 DeepSeek-V2 / V3 基础模型与 R1 推理大模型的核心算力母港！DeepSeek 深度求索团队将算力重兵部署于‘草原云谷’乌兰察布，充分利用内蒙古常年极寒自然冷源与极其廉价丰沛的绿色风光电，配合团队独创的 DualPipe 双向多流重叠通信、FP8 混合精度训练及 HAI 自研集群调度，将大模型训练成本降低了数倍至数十倍，创造了全球算力能效与成本控制的业界神话。"
+      },
+      "evidence": {
+        "note": "仅找到乌兰察布新建项目的媒体线索；原来的已运营 200 MW、2 万卡和 R1 训练地点缺少可归属证据，撤下这些数值。",
+        "sources": [
+          {
+            "type": "新闻 / 独立报道",
+            "title": "新浪 / 智通财经：乌兰察布项目报道",
+            "url": "https://finance.sina.com.cn/stock/t/2026-07-31/doc-inikstfi4446168.shtml",
+            "scope": "报道拟建设约 1 GW；属于规划线索，非竣工证据",
+            "date": "2026-07-31",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "DeepSeek-V3 技术报告",
+            "url": "https://arxiv.org/abs/2412.19437",
+            "scope": "H800 训练硬件；论文不能证明乌兰察布机房位置",
+            "date": "2024-12",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "新浪 / 智通财经：乌兰察布项目报道",
+          "https://finance.sina.com.cn/stock/t/2026-07-31/doc-inikstfi4446168.shtml"
+        ],
+        [
+          "DeepSeek-V3 技术报告",
+          "https://arxiv.org/abs/2412.19437"
+        ]
+      ],
+      "verification": "仅找到乌兰察布新建项目的媒体线索；原来的已运营 200 MW、2 万卡和 R1 训练地点缺少可归属证据，撤下这些数值。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "coreweave-texas-denton",
+      "name": "CoreWeave 德克萨斯丹顿超级集群",
+      "company": "CoreWeave",
+      "companyTag": "CoreWeave",
+      "category": "新兴算力厂商",
+      "region": "北美洲",
+      "location": "美国得克萨斯州丹顿 (Denton / Dallas)",
+      "lat": 33.2148,
+      "lng": -97.1331,
+      "investment": "单站投资未核实",
+      "powerMW": "260 MW（合同 / 扩建 IT 容量）",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "官方披露约 260 MW 关键 IT 容量扩建；原 500 MW / 1 GW 及投资数值不能沿用。合同收入不等于建设投资。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Core Scientific / SEC：Denton 扩建",
+            "https://www.sec.gov/Archives/edgar/data/1839341/000162828025008312/ex991-coreweavepressrelease.htm"
+          ],
+          [
+            "Core Scientific：与 CoreWeave 扩建合作",
+            "https://corescientific.com/news/core-scientific-and-coreweave-announce-1-2b-expansion-in-texas-to-power-ai-growth/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "CoreWeave 德克萨斯丹顿超级集群",
+        "powerMW": "500 MW (规划扩容至 1 GW)",
+        "investment": "$35亿+",
+        "gpuCount": "超 250,000 张 (Blackwell GB200 / H100 / H200)",
+        "status": "construction",
+        "description": "当前全球估值超 230 亿美元的算力云‘头号新贵’CoreWeave 核心基地。作为英伟达首选优先供货的核心盟友，该中心为微盟、Inflection AI 及前沿大模型独角兽提供全栈 InfiniBand 超低延迟万卡集群训练服务。"
+      },
+      "evidence": {
+        "note": "官方披露约 260 MW 关键 IT 容量扩建；原 500 MW / 1 GW 及投资数值不能沿用。合同收入不等于建设投资。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Core Scientific / SEC：Denton 扩建",
+            "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828025008312/ex991-coreweavepressrelease.htm",
+            "scope": "新增 70 MW、总计约 260 MW；12 亿美元为合同收入",
+            "date": "2025-02-26",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Core Scientific：与 CoreWeave 扩建合作",
+            "url": "https://corescientific.com/news/core-scientific-and-coreweave-announce-1-2b-expansion-in-texas-to-power-ai-growth/",
+            "scope": "同一企业公告的发布渠道，不算独立第二信源",
+            "date": "2025-02-26",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "维基百科",
+            "title": "CoreWeave 公司背景",
+            "url": "https://en.wikipedia.org/wiki/CoreWeave",
+            "scope": "背景与参考文献入口，不作为容量或芯片独立确认",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Core Scientific / SEC：Denton 扩建",
+          "https://www.sec.gov/Archives/edgar/data/1839341/000162828025008312/ex991-coreweavepressrelease.htm"
+        ],
+        [
+          "Core Scientific：与 CoreWeave 扩建合作",
+          "https://corescientific.com/news/core-scientific-and-coreweave-announce-1-2b-expansion-in-texas-to-power-ai-growth/"
+        ],
+        [
+          "CoreWeave 公司背景",
+          "https://en.wikipedia.org/wiki/CoreWeave"
+        ]
+      ],
+      "verification": "官方披露约 260 MW 关键 IT 容量扩建；原 500 MW / 1 GW 及投资数值不能沿用。合同收入不等于建设投资。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "coreweave-europe-norway",
+      "name": "CoreWeave / Bulk N01 挪威 AI 集群",
+      "company": "CoreWeave",
+      "companyTag": "CoreWeave",
+      "category": "新兴算力厂商",
+      "region": "欧洲",
+      "location": "挪威 Vennesla（区域级示意点）",
+      "lat": 58.27,
+      "lng": 7.97,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA GB200 NVL72（官方部署计划）",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "项目可定位为 Vennesla 的 Bulk N01。欧洲总投资不分摊到此园区；2025 年预计投产时间不能替代实际投运公告。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA GB200 NVL72（官方部署计划）",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Bulk：CoreWeave N01 合作",
+            "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+          ],
+          [
+            "Euronext：合作公告存档",
+            "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2025/03/14/641268_CoreWeave%20partners%20with%20Bulk%20Infrastructure%20for%20one%20of%20the%20largest%20NVIDIA%20AI%20deployments%20in%20Europe.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "CoreWeave 欧洲绿色主权算力中心",
+        "powerMW": "300 MW",
+        "investment": "$22亿 (欧洲基建专项)",
+        "gpuCount": "100,000+ (H100 / Blackwell)",
+        "status": "construction",
+        "description": "CoreWeave 进军欧洲的战略旗舰。借助挪威全球最廉价清洁的水电能源与极寒气候，为英国及欧盟各国政府、高校与本土大模型公司提供符合严格欧盟数据主权（GDPR）的高性能算力保障。"
+      },
+      "evidence": {
+        "note": "项目可定位为 Vennesla 的 Bulk N01。欧洲总投资不分摊到此园区；2025 年预计投产时间不能替代实际投运公告。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Bulk：CoreWeave N01 合作",
+            "url": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure",
+            "scope": "N01 地点、GB200 NVL72 部署计划",
+            "date": "2025-03-14",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Euronext：合作公告存档",
+            "url": "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2025/03/14/641268_CoreWeave%20partners%20with%20Bulk%20Infrastructure%20for%20one%20of%20the%20largest%20NVIDIA%20AI%20deployments%20in%20Europe.pdf",
+            "scope": "与 Bulk 同源；不算独立验证",
+            "date": "2025-03-14",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Bulk：CoreWeave N01 合作",
+          "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+        ],
+        [
+          "Euronext：合作公告存档",
+          "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2025/03/14/641268_CoreWeave%20partners%20with%20Bulk%20Infrastructure%20for%20one%20of%20the%20largest%20NVIDIA%20AI%20deployments%20in%20Europe.pdf"
+        ]
+      ],
+      "verification": "项目可定位为 Vennesla 的 Bulk N01。欧洲总投资不分摊到此园区；2025 年预计投产时间不能替代实际投运公告。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "softbank-europe-uk-ai",
+      "name": "软银欧洲主权 AI 超算基地 (Project Izanagi 欧洲中心)",
+      "company": "软银集团 (SoftBank) & ARM",
+      "companyTag": "软银集团",
+      "category": "亚太算力枢纽",
+      "region": "欧洲",
+      "location": "英国伦敦走廊 / 剑桥 (Cambridge)",
+      "lat": 52.2053,
+      "lng": 0.1218,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "本轮未找到能对应“英国 Project Izanagi 250 MW”这一组合的官方项目资料。保留为待核实线索，不以其他国家软银项目替代。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": []
+      },
+      "originalRecord": {
+        "name": "软银欧洲主权 AI 超算基地 (Project Izanagi 欧洲中心)",
+        "powerMW": "250 MW",
+        "investment": "£15亿+ (~$19亿)",
+        "gpuCount": "超 80,000 张定制 Blackwell & ARM 架构集群",
+        "status": "construction",
+        "description": "孙正义全球千亿美元‘伊邪那岐 (Project Izanagi)’AI 愿景在欧洲的桥头堡。深度协同英国本土芯片巨擘 ARM 架构与英伟达超级加速集群，致力于为欧洲科研、金融制药大模型提供独立于硅谷巨头的主权级算力基础设施。"
+      },
+      "evidence": {
+        "note": "本轮未找到能对应“英国 Project Izanagi 250 MW”这一组合的官方项目资料。保留为待核实线索，不以其他国家软银项目替代。",
+        "sources": [],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [],
+      "verification": "本轮未找到能对应“英国 Project Izanagi 250 MW”这一组合的官方项目资料。保留为待核实线索，不以其他国家软银项目替代。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "japan-tokyo-softbank-ai",
+      "name": "SoftBank 大阪堺 AI 数据中心",
+      "company": "软银集团 (SoftBank)",
+      "companyTag": "软银集团",
+      "category": "亚太算力枢纽",
+      "region": "亚太地区",
+      "location": "日本大阪府堺市（区域级示意点）",
+      "lat": 34.6,
+      "lng": 135.44,
+      "investment": "单站投资未核实",
+      "powerMW": "未统一（140 / 150 MW 口径见来源）",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "原日本全国 / 东京记录与大阪堺项目混淆，改为可明确定位的堺项目。官方 2025 与现行页面的容量、投产计划不同，保留日期差异。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "SoftBank：收购夏普堺工厂",
+            "https://www.softbank.jp/corp/news/press/sbkk/2025/20250314_01/"
+          ],
+          [
+            "SoftBank：现行基础设施目标",
+            "https://www.softbank.jp/en/corp/sustainability/materiality/next-gen-infra/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "软银日本全域 AI 计算基地 (SoftBank DGX Cluster)",
+        "powerMW": "200 MW",
+        "investment": "1500亿日元+ (~$10亿)",
+        "gpuCount": "英伟达 DGX B200 / H100 超级计算机集群",
+        "status": "construction",
+        "description": "孙正义亲自操刀的日本本土主权 AI 超算项目。将夏普旧液晶面板工厂重构改造为全日本规模最大的人工智能数据中心，旨在研发日本本土顶级日语大模型及服务机器人大脑。"
+      },
+      "evidence": {
+        "note": "原日本全国 / 东京记录与大阪堺项目混淆，改为可明确定位的堺项目。官方 2025 与现行页面的容量、投产计划不同，保留日期差异。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "SoftBank：收购夏普堺工厂",
+            "url": "https://www.softbank.jp/corp/news/press/sbkk/2025/20250314_01/",
+            "scope": "约 150 MW 受电容量、2026 年目标；不是 IT 负载",
+            "date": "2025-03-14",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "SoftBank：现行基础设施目标",
+            "url": "https://www.softbank.jp/en/corp/sustainability/materiality/next-gen-infra/",
+            "scope": "堺 140 MW、FY2027 目标；需核对新旧容量口径",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "SoftBank：收购夏普堺工厂",
+          "https://www.softbank.jp/corp/news/press/sbkk/2025/20250314_01/"
+        ],
+        [
+          "SoftBank：现行基础设施目标",
+          "https://www.softbank.jp/en/corp/sustainability/materiality/next-gen-infra/"
+        ]
+      ],
+      "verification": "原日本全国 / 东京记录与大阪堺项目混淆，改为可明确定位的堺项目。官方 2025 与现行页面的容量、投产计划不同，保留日期差异。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "crusoe-lancaster-ai",
+      "name": "Crusoe 兰开斯特零碳算力超级基地",
+      "company": "Crusoe Energy",
+      "companyTag": "Crusoe",
+      "category": "新兴算力厂商",
+      "region": "北美洲",
+      "location": "美国得克萨斯州兰开斯特 (Lancaster / Dallas)",
+      "lat": 32.5921,
+      "lng": -96.7561,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "原 Crusoe / Lancaster / 1.2 GW 组合无法确认。已找到 CoreWeave 的 Lancaster 项目及 Crusoe 的 Childress 项目，属于不同公司 / 地点，不合并。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "CoreWeave：宾夕法尼亚投资",
+            "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx"
+          ],
+          [
+            "Crusoe：Childress 1 GW 园区",
+            "https://www.crusoe.ai/resources/newsroom/crusoe-and-lancium-announce-1-gigawatt-ai-data-center-campus-in-childress-texas"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Crusoe 兰开斯特零碳算力超级基地",
+        "powerMW": "1,200 MW (1.2 GW)",
+        "investment": "$34亿+",
+        "gpuCount": "超 200,000 张前沿 AI 芯片",
+        "status": "construction",
+        "description": "以‘点石成金’著称的新兴能源算力独角兽 Crusoe。开创性地将传统油气田直接排放浪费的伴生气转换为电力，并融合绿电驱动超级机房，近期已与顶级大模型机构达成全园区算力直供包揽协议。"
+      },
+      "evidence": {
+        "note": "原 Crusoe / Lancaster / 1.2 GW 组合无法确认。已找到 CoreWeave 的 Lancaster 项目及 Crusoe 的 Childress 项目，属于不同公司 / 地点，不合并。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "CoreWeave：宾夕法尼亚投资",
+            "url": "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
+            "scope": "Lancaster 的主体是 CoreWeave；反证原混合记录",
+            "date": "2025-07-15",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Crusoe：Childress 1 GW 园区",
+            "url": "https://www.crusoe.ai/resources/newsroom/crusoe-and-lancium-announce-1-gigawatt-ai-data-center-campus-in-childress-texas",
+            "scope": "Childress 项目；不是 Lancaster",
+            "date": "2026-07-15",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "CoreWeave：宾夕法尼亚投资",
+          "https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx"
+        ],
+        [
+          "Crusoe：Childress 1 GW 园区",
+          "https://www.crusoe.ai/resources/newsroom/crusoe-and-lancium-announce-1-gigawatt-ai-data-center-campus-in-childress-texas"
+        ]
+      ],
+      "verification": "原 Crusoe / Lancaster / 1.2 GW 组合无法确认。已找到 CoreWeave 的 Lancaster 项目及 Crusoe 的 Childress 项目，属于不同公司 / 地点，不合并。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "nebius-finland-mantsala",
+      "name": "Nebius 芬兰曼采莱极地绿色 AI 枢纽",
+      "company": "Nebius AI (前 Yandex NV)",
+      "companyTag": "Nebius",
+      "category": "新兴算力厂商",
+      "region": "欧洲",
+      "location": "芬兰曼采莱 (Mäntsälä / 赫尔辛基大区)",
+      "lat": 60.6341,
+      "lng": 25.3182,
+      "investment": "单站投资未核实",
+      "powerMW": "75 MW（官方扩建规模）",
+      "gpuCount": "NVIDIA H100 / H200（官方披露供给；比例未知）",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "官方公告确认 Mäntsälä 扩建至 75 MW；容量是扩建规模，不能从最大容纳卡数推断已安装数量。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA H100 / H200（官方披露供给；比例未知）",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Nebius：芬兰扩建至 75 MW",
+            "https://nebius.com/newsroom/nebius-to-triple-capacity-at-finland-data-center-to-75-mw"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Nebius 芬兰曼采莱极地绿色 AI 枢纽",
+        "powerMW": "180 MW (扩容中)",
+        "investment": "$10亿+",
+        "gpuCount": "60,000+ (H100 / H200 / B200 超算集群)",
+        "status": "operational",
+        "description": "前欧洲科技巨头分拆独立上市的新兴算力龙头 Nebius。其曼采莱机房以极致环保闻名全球，服务器运转产生的巨量热能全部被接入当地市政供暖管道，为数万当地居民过冬供暖，PUE 极值逼近 1.05。"
+      },
+      "evidence": {
+        "note": "官方公告确认 Mäntsälä 扩建至 75 MW；容量是扩建规模，不能从最大容纳卡数推断已安装数量。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Nebius：芬兰扩建至 75 MW",
+            "url": "https://nebius.com/newsroom/nebius-to-triple-capacity-at-finland-data-center-to-75-mw",
+            "scope": "园区、扩建规模及 H100 / H200 供给计划",
+            "date": "2024-10-08",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "独立研究 / 跟踪",
+            "title": "NBIS Tracker：Mäntsälä",
+            "url": "https://nbistracker.com/sites/mantsala",
+            "scope": "跟踪页面称 2026-03 完成扩建，需与最新原始文件核对",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Nebius：芬兰扩建至 75 MW",
+          "https://nebius.com/newsroom/nebius-to-triple-capacity-at-finland-data-center-to-75-mw"
+        ],
+        [
+          "NBIS Tracker：Mäntsälä",
+          "https://nbistracker.com/sites/mantsala"
+        ]
+      ],
+      "verification": "官方公告确认 Mäntsälä 扩建至 75 MW；容量是扩建规模，不能从最大容纳卡数推断已安装数量。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "lambda-labs-dallas",
+      "name": "Lambda / Aligned DFW-04 Plano 项目",
+      "company": "Lambda Labs",
+      "companyTag": "Lambda",
+      "category": "新兴算力厂商",
+      "region": "北美洲",
+      "location": "美国得克萨斯州艾伦 / 达拉斯",
+      "lat": 33.1032,
+      "lng": -96.6706,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "定位为 Plano 的 Aligned DFW-04 租用项目；撤下原 150 MW 和未证实的单站卡数。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Plano：数据中心建设消息",
+            "https://www.plano.gov/content/ed-news/new-700m-data-center-takes-shape-in-east-plano"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Lambda Labs 达拉斯深度学习超级中心",
+        "powerMW": "150 MW",
+        "investment": "$8亿+ (授信总额$15亿)",
+        "gpuCount": "数万张英伟达 Quantum-2 互联 GPU",
+        "status": "operational",
+        "description": "全球 AI 科学家和顶级科研机构最青睐的专属 GPU 云。专注为开源大模型团队提供开箱即用、免去繁琐运维的纯粹算力栈，在斯坦福、UC伯克利及前沿 AI 独角兽中拥有极高口碑。"
+      },
+      "evidence": {
+        "note": "定位为 Plano 的 Aligned DFW-04 租用项目；撤下原 150 MW 和未证实的单站卡数。",
+        "sources": [
+          {
+            "type": "新闻 / 独立报道",
+            "title": "DCD：Lambda 租用 DFW-04",
+            "url": "https://www.datacenterdynamics.com/en/news/lambda-cloud-to-take-capacity-at-aligneds-dfw-04-dallas-fort-worth-data-center/",
+            "scope": "主体、Plano 地点、液冷建设计划",
+            "date": "2025-05-08",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Plano：数据中心建设消息",
+            "url": "https://www.plano.gov/content/ed-news/new-700m-data-center-takes-shape-in-east-plano",
+            "scope": "市政府项目消息；投资范围需核对",
+            "date": "2025-05-07",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "DCD：Lambda 租用 DFW-04",
+          "https://www.datacenterdynamics.com/en/news/lambda-cloud-to-take-capacity-at-aligneds-dfw-04-dallas-fort-worth-data-center/"
+        ],
+        [
+          "Plano：数据中心建设消息",
+          "https://www.plano.gov/content/ed-news/new-700m-data-center-takes-shape-in-east-plano"
+        ]
+      ],
+      "verification": "定位为 Plano 的 Aligned DFW-04 租用项目；撤下原 150 MW 和未证实的单站卡数。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "macau-hengqin-computing",
+      "name": "横琴先进智能计算中心 (澳门大学/大湾区算力枢纽)",
+      "company": "横琴实验室 & 澳门大学",
+      "companyTag": "澳门大学/横琴",
+      "category": "中国算力中枢",
+      "region": "大中华区",
+      "location": "中国澳门周边 / 横琴粤澳深度合作区",
+      "lat": 22.1485,
+      "lng": 113.5358,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "未找到澳门大学拥有原记录规模智算中心的证据。澳琴国际数据中心的公布运营方为博维、横琴应来云及珠海联通，与澳门大学不是同一主体。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "深圳港澳办：澳琴国际数据中心启动",
+            "https://hmo.sz.gov.cn/zx/gasd/content/post_1556048.html"
+          ],
+          [
+            "澳门政府：澳大横琴延伸办学",
+            "https://www.gov.mo/zh-hans/news/864914/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "横琴先进智能计算中心 (澳门大学/大湾区算力枢纽)",
+        "powerMW": "180 MW",
+        "investment": "¥20亿+ (~$2.8亿)",
+        "gpuCount": "4,000+ PFlops (寒武纪/国产AI芯片集群)",
+        "status": "operational",
+        "description": "服务于中国澳门特别行政区及粤港澳大湾区的核心 AI 算力底座。由澳门大学产学研平台深度参与，为澳门中葡双语大模型、微电子仿真芯片设计、智慧城市与智慧医疗提供庞大的人工智能算力支撑，是跨境科技协同创新的重要示范节点。"
+      },
+      "evidence": {
+        "note": "未找到澳门大学拥有原记录规模智算中心的证据。澳琴国际数据中心的公布运营方为博维、横琴应来云及珠海联通，与澳门大学不是同一主体。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "深圳港澳办：澳琴国际数据中心启动",
+            "url": "https://hmo.sz.gov.cn/zx/gasd/content/post_1556048.html",
+            "scope": "相关项目的真实运营方；不能证实原澳门大学归属",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "澳门政府：澳大横琴延伸办学",
+            "url": "https://www.gov.mo/zh-hans/news/864914/",
+            "scope": "科研平台与校区，非原 GPU 园区规模证明",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "深圳港澳办：澳琴国际数据中心启动",
+          "https://hmo.sz.gov.cn/zx/gasd/content/post_1556048.html"
+        ],
+        [
+          "澳门政府：澳大横琴延伸办学",
+          "https://www.gov.mo/zh-hans/news/864914/"
+        ]
+      ],
+      "verification": "未找到澳门大学拥有原记录规模智算中心的证据。澳琴国际数据中心的公布运营方为博维、横琴应来云及珠海联通，与澳门大学不是同一主体。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "shanghai-lingang-sensetime",
+      "name": "商汤科技临港 AIDC (新一代人工智能计算中心)",
+      "company": "商汤科技 (SenseTime)",
+      "companyTag": "商汤科技",
+      "category": "中国算力中枢",
+      "region": "大中华区",
+      "location": "中国上海市浦东新区临港新片区",
+      "lat": 30.8923,
+      "lng": 121.9247,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "官方年报确认临港 AIDC 已运营；公开能耗数据不能直接当作额定 MW，集团总卡数也不能直接分配到此站。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "商汤：2024 年报 / ESG",
+            "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0424/2025042401051.pdf"
+          ],
+          [
+            "上海经信委：智算中心启用",
+            "https://sheitc.sh.gov.cn/zxxx/20220125/c631264fc9f74ae3a466a1d744cc73c3.html"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "商汤科技临港 AIDC (新一代人工智能计算中心)",
+        "powerMW": "300 MW",
+        "investment": "¥56亿 (~$7.8亿)",
+        "gpuCount": "超 20,000 PFlops (45,000+ 块高性能算力卡)",
+        "status": "operational",
+        "description": "亚洲规模最大的商业级单体人工智能计算中心之一。作为商汤‘日日新’前沿大模型的核心训练底座，同时向全球数千家科研院所和企业开放，承接多模态基础模型与具身智能机器人仿真训练。"
+      },
+      "evidence": {
+        "note": "官方年报确认临港 AIDC 已运营；公开能耗数据不能直接当作额定 MW，集团总卡数也不能直接分配到此站。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "商汤：2024 年报 / ESG",
+            "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0424/2025042401051.pdf",
+            "scope": "AIDC 自 2022 年运营及能源信息",
+            "date": "2025-04-24",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "上海经信委：智算中心启用",
+            "url": "https://sheitc.sh.gov.cn/zxxx/20220125/c631264fc9f74ae3a466a1d744cc73c3.html",
+            "scope": "政府见证 2022 年点亮启用，与年报交叉确认",
+            "date": "2022-01-25",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "商汤：2024 年报 / ESG",
+          "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0424/2025042401051.pdf"
+        ],
+        [
+          "上海经信委：智算中心启用",
+          "https://sheitc.sh.gov.cn/zxxx/20220125/c631264fc9f74ae3a466a1d744cc73c3.html"
+        ]
+      ],
+      "verification": "官方年报确认临港 AIDC 已运营；公开能耗数据不能直接当作额定 MW，集团总卡数也不能直接分配到此站。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "guizhou-guian-huawei",
+      "name": "华为贵安七星湖云数据中心",
+      "company": "华为云",
+      "companyTag": "华为",
+      "category": "中国算力中枢",
+      "region": "大中华区",
+      "location": "贵州贵安新区（区域级示意点）",
+      "lat": 26.4132,
+      "lng": 106.5298,
+      "investment": "未核实",
+      "powerMW": "未披露",
+      "gpuCount": "园区芯片型号与数量未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区冷却方案未核实",
+      "powerSource": "园区能源结构未在本轮核实",
+      "footprint": "华为独立园区，与腾讯贵安七星分开登记",
+      "description": "华为云官方接入点列有贵阳—七星湖（贵安云上屯数据中心）。原记录混合华为与腾讯两个不同园区，现拆分；删除无法归属单一园区的 1,200 MW、投资与芯片数量。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "华为云：贵安七星湖接入点",
+          "https://support.huaweicloud.com/dc_faq/dc_faq_0007.html"
+        ],
+        [
+          "中央网信办：贵安布局",
+          "https://www.cac.gov.cn/2026-09/01/c_1790012378081831.htm"
+        ]
+      ],
+      "verification": "园区存在已核实；AI 专属容量待披露",
+      "reviewedAt": "2026-11-02",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "华为云：贵安七星湖接入点",
+            "https://support.huaweicloud.com/dc_faq/dc_faq_0007.html"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "华为贵安七星湖云数据中心",
+        "powerMW": "未披露",
+        "investment": "未核实",
+        "gpuCount": "园区芯片型号与数量未披露",
+        "status": "operational",
+        "description": "华为云官方接入点列有贵阳—七星湖（贵安云上屯数据中心）。原记录混合华为与腾讯两个不同园区，现拆分；删除无法归属单一园区的 1,200 MW、投资与芯片数量。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属容量待披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "华为云：贵安七星湖接入点",
+            "url": "https://support.huaweicloud.com/dc_faq/dc_faq_0007.html",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "中央网信办：贵安布局",
+            "url": "https://www.cac.gov.cn/2026-09/01/c_1790012378081831.htm",
+            "scope": "华为与腾讯独立布局；不证明本站容量",
+            "date": "2026-09-01",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "zhangjiakou-huailai-bytedance",
+      "name": "张家口怀来智算集群 (火山引擎/字节跳动)",
+      "company": "字节跳动 (火山引擎)",
+      "companyTag": "字节跳动",
+      "category": "中国算力中枢",
+      "region": "大中华区",
+      "location": "中国河北省张家口市怀来县",
+      "lat": 40.4153,
+      "lng": 115.5175,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "ODCC 项目评估与秦淮报告可交叉确认怀来布局；仅能确认园区，不能确认原 GPU 型号与数量。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "秦淮：ESG 报告",
+            "https://www.chindatagroup.com/upload/portal/20231025/f69bf9266d038317202799b18321f3d8.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "张家口怀来智算集群 (火山引擎/字节跳动)",
+        "powerMW": "900 MW",
+        "investment": "¥180亿+ (~$25亿)",
+        "gpuCount": "超 10 万张大模型加速算力卡",
+        "status": "construction",
+        "description": "字节跳动‘豆包’基础大模型及全球短视频 AI 推荐引擎的算力核心。由于距北京中关村仅数十公里，网络单向光纤延迟小于 2 毫秒，实现了毫秒级实时大模型推理与超大规模集群联训。"
+      },
+      "evidence": {
+        "note": "ODCC 项目评估与秦淮报告可交叉确认怀来布局；仅能确认园区，不能确认原 GPU 型号与数量。",
+        "sources": [
+          {
+            "type": "行业评估",
+            "title": "ODCC：官厅湖基地一期",
+            "url": "https://www.odcc.org.cn/auth/v-1175966206173532161.html",
+            "scope": "字节跳动官厅湖项目、位置、机房设计",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "秦淮：ESG 报告",
+            "url": "https://www.chindatagroup.com/upload/portal/20231025/f69bf9266d038317202799b18321f3d8.pdf",
+            "scope": "怀来同城三基地；供应商侧布局证据",
+            "date": "2022",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "ODCC：官厅湖基地一期",
+          "https://www.odcc.org.cn/auth/v-1175966206173532161.html"
+        ],
+        [
+          "秦淮：ESG 报告",
+          "https://www.chindatagroup.com/upload/portal/20231025/f69bf9266d038317202799b18321f3d8.pdf"
+        ]
+      ],
+      "verification": "ODCC 项目评估与秦淮报告可交叉确认怀来布局；仅能确认园区，不能确认原 GPU 型号与数量。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "taiwan-kaohsiung-nvidia",
+      "name": "鸿海 / NVIDIA 高雄先进计算中心",
+      "company": "NVIDIA (英伟达) & 富士康",
+      "companyTag": "NVIDIA",
+      "category": "亚太算力枢纽",
+      "region": "大中华区",
+      "location": "中国台湾高雄市软体园区 / 台北",
+      "lat": 22.6074,
+      "lng": 120.3014,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA Blackwell（项目计划；本站数量未确认）",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "高雄先进计算中心由鸿海规划。NVIDIA 后续 1 万颗 Blackwell 公告为台湾 AI Factory 项目级，不全量归属高雄单站。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA Blackwell（项目计划；本站数量未确认）",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "鸿海：高雄先进计算中心",
+            "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1350"
+          ],
+          [
+            "NVIDIA：台湾 AI Factory",
+            "https://nvidianews.nvidia.com/news/foxconn-ai-factory-tsmc-taiwan-nvidia"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Taiwan-1 & 高雄先进算力中心",
+        "powerMW": "250 MW",
+        "investment": "$15亿+",
+        "gpuCount": "首批 GB200 NVL72 旗舰集群",
+        "status": "construction",
+        "description": "英伟达黄仁勋与富士康联合建立的台湾首座先进 AI 超算中心。搭载最新的 Blackwell 架构架构，专注于半导体先进制程仿真、数字孪生 Omniverse 工业制造与生成式 AI 研发。"
+      },
+      "evidence": {
+        "note": "高雄先进计算中心由鸿海规划。NVIDIA 后续 1 万颗 Blackwell 公告为台湾 AI Factory 项目级，不全量归属高雄单站。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "鸿海：高雄先进计算中心",
+            "url": "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1350",
+            "scope": "高雄位置、Blackwell 平台计划",
+            "date": "2024-06-04",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "NVIDIA：台湾 AI Factory",
+            "url": "https://nvidianews.nvidia.com/news/foxconn-ai-factory-tsmc-taiwan-nvidia",
+            "scope": "台湾项目计划 1 万颗 Blackwell；非高雄单站已安装量",
+            "date": "2025-05-18",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "鸿海：高雄先进计算中心",
+          "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1350"
+        ],
+        [
+          "NVIDIA：台湾 AI Factory",
+          "https://nvidianews.nvidia.com/news/foxconn-ai-factory-tsmc-taiwan-nvidia"
+        ]
+      ],
+      "verification": "高雄先进计算中心由鸿海规划。NVIDIA 后续 1 万颗 Blackwell 公告为台湾 AI Factory 项目级，不全量归属高雄单站。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "colossus-2-memphis",
+      "name": "Colossus 2 (巨人二号算力集群)",
+      "company": "SpaceX（原 xAI，保留 xAI 搜索别名）",
+      "companyTag": "SpaceX",
+      "category": "科技巨头",
+      "region": "北美洲",
+      "location": "美国田纳西州孟菲斯 / 密西西比州北部",
+      "lat": 34.9982,
+      "lng": -90.0456,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA GB200 / GB300；当前卡数与配比未统一",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "Colossus 1 与 2 的卡数必须分开。公开文件、官方社交表述和第三方估算的规模不同，暂不提供单一已投运 MW。",
+      "videoUrl": "media/colossus2_analysis.mp4",
+      "videoTitle": "Colossus 2 卫星航拍与模块化扩建规划深度解析（带中文字幕）",
+      "images": [
+        {
+          "url": "media/colossus_shot1.jpg",
+          "caption": "Colossus 2 园区卫星图：Macro Hard 与高密度 Mini Hard 架构对比"
+        },
+        {
+          "url": "media/starbase_shot2.jpg",
+          "caption": "自建燃气轮机发电机组与跨州管网布局"
+        }
+      ],
+      "timeline": [],
+      "sources": [
+        [
+          "SpaceX：公司招股说明书",
+          "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+        ],
+        [
+          "Tom’s Hardware：容量争议",
+          "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-colossus-2-is-nowhere-near-1-gigawatt-capacity-satellite-imagery-suggests-despite-claims-site-only-has-350-megawatts-of-cooling-capacity"
+        ],
+        [
+          "Colossus 项目与引文",
+          "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+        ]
+      ],
+      "verification": "Colossus 1 与 2 的卡数必须分开。公开文件、官方社交表述和第三方估算的规模不同，暂不提供单一已投运 MW。",
+      "reviewedAt": "2026-11-02",
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA GB200 / GB300；当前卡数与配比未统一",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "SpaceX：公司招股说明书",
+            "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Colossus 2 (巨人二号算力集群)",
+        "powerMW": "1,200 MW (1.2 GW)",
+        "investment": "$150亿+",
+        "gpuCount": "550,000+ (GB200 / GB300)",
+        "status": "construction",
+        "description": "马斯克旗下 xAI 打造的全球最高算力密度集群之一。由旧冷库改造的 Macro Harder 与高密度集约化的 Mini Hard 组成，跨越田纳西与密西西比州界。已自备燃气电厂与千台 Megapack 储能以解决并网电力瓶颈，规划后续 H 型 5 号与 6 号数据中心扩建。"
+      },
+      "evidence": {
+        "note": "Colossus 1 与 2 的卡数必须分开。公开文件、官方社交表述和第三方估算的规模不同，暂不提供单一已投运 MW。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "SpaceX：公司招股说明书",
+            "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+            "scope": "Colossus 后续集群 GB200 披露；历史时点，非当前总量",
+            "date": "2026-06-05",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "X / 待复核",
+            "title": "Elon Musk：Colossus 2 投运帖",
+            "url": "https://x.com/elonmusk/status/2012500968571637891",
+            "scope": "负责人陈述；原帖尚未直读",
+            "date": "见原帖",
+            "access": "原帖返回 403；仅找到外部引用，不纳入已验证证据",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "X / 待复核",
+            "title": "S.E. Robinson：现场 / 电源跟踪",
+            "url": "https://x.com/SERobinsonJr/status/1941502884702523672",
+            "scope": "第三方观察线索；不是官方实测容量",
+            "date": "见原帖",
+            "access": "原帖返回 403；仅找到外部引用，不纳入已验证证据",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Tom’s Hardware：容量争议",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-colossus-2-is-nowhere-near-1-gigawatt-capacity-satellite-imagery-suggests-despite-claims-site-only-has-350-megawatts-of-cooling-capacity",
+            "scope": "2026 年 1 月声明与估算存在差异；不代表 11 月现状",
+            "date": "2026-01-21",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "维基百科",
+            "title": "Colossus 项目与引文",
+            "url": "https://en.wikipedia.org/wiki/Colossus_(data_center)",
+            "scope": "背景与参考文献入口，不作为容量或芯片独立确认",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      }
+    },
+    {
+      "id": "starbase-ai-cluster",
+      "name": "Starbase 超级 AI 算力中心",
+      "company": "SpaceX（原 xAI，保留 xAI 搜索别名）",
+      "companyTag": "SpaceX",
+      "category": "科技巨头",
+      "region": "北美洲",
+      "location": "美国得克萨斯州博卡奇卡 / 布朗斯维尔港",
+      "lat": 25.9961,
+      "lng": -97.2917,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "未取得可对应 Starbase 500 MW 地面 AI 集群的项目资料。SpaceX 公司并购公告不能证明这个基地存在。",
+      "videoUrl": "media/colossus2_analysis.mp4",
+      "videoTitle": "Starbase 得州算力地块无人机航拍航路实况",
+      "images": [
+        {
+          "url": "media/starbase_shot2.jpg",
+          "caption": "RGV Aerial 航拍摄像机记录的布朗斯维尔港南侧 444 英亩算力用地"
+        }
+      ],
+      "timeline": [],
+      "sources": [
+        [
+          "xAI 加入 SpaceX",
+          "https://x.ai/news/xai-joins-spacex"
+        ]
+      ],
+      "verification": "未取得可对应 Starbase 500 MW 地面 AI 集群的项目资料。SpaceX 公司并购公告不能证明这个基地存在。",
+      "reviewedAt": "2026-11-02",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "xAI 加入 SpaceX",
+            "https://x.ai/news/xai-joins-spacex"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Starbase 超级 AI 算力中心",
+        "powerMW": "500+ MW",
+        "investment": "$60亿+",
+        "gpuCount": "250,000+ (GB300 / B200)",
+        "status": "construction",
+        "description": "位于布朗斯维尔港南侧的超级 AI 基地。该 444 英亩关键地块已正式从布朗斯维尔市脱离行政管辖（Disannexed），全权归属于 Starbase 星舰基地市政管辖，极大加速了环评与建设施工许可审批流程，未来将全面服务于星舰轨道AI演算、FSD端到端大模型与Grok通用人工智能迭代。"
+      },
+      "evidence": {
+        "note": "未取得可对应 Starbase 500 MW 地面 AI 集群的项目资料。SpaceX 公司并购公告不能证明这个基地存在。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "xAI 加入 SpaceX",
+            "url": "https://x.ai/news/xai-joins-spacex",
+            "scope": "仅支持公司归属，不支持此项目及容量",
+            "date": "2026-02-02",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      }
+    },
+    {
+      "id": "stargate-wisconsin",
+      "name": "Microsoft Fairwater 威斯康星 AI 数据中心",
+      "company": "Microsoft",
+      "companyTag": "微软",
+      "category": "科技巨头",
+      "region": "北美洲",
+      "location": "美国威斯康星州拉辛县 (Mount Pleasant)",
+      "lat": 42.7161,
+      "lng": -87.9351,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA Blackwell（Fairwater 项目级披露）",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "更正为微软 Mount Pleasant 的 Fairwater。该站不应直接标成 OpenAI Stargate；最新投运状态仍需项目公告。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA Blackwell（Fairwater 项目级披露）",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Microsoft：Fairwater 项目介绍",
+            "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/"
+          ],
+          [
+            "Microsoft：威斯康星建设说明",
+            "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Project Stargate (星际之门超算集群)",
+        "powerMW": "5,000 MW (5 GW)",
+        "investment": "$1,000亿+",
+        "gpuCount": "1,000,000+ (下一代算力芯片)",
+        "status": "planned",
+        "description": "微软与 OpenAI 联手打造的旗舰级千亿美元 AI 超算工程。规模为目前典型超算中心的数百倍，因用电量接近中型城市，倒逼美国科技界重新激活核电与 SMR（小型核反应堆）。"
+      },
+      "evidence": {
+        "note": "更正为微软 Mount Pleasant 的 Fairwater。该站不应直接标成 OpenAI Stargate；最新投运状态仍需项目公告。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Microsoft：Fairwater 项目介绍",
+            "url": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+            "scope": "官方命名、地点、AI 功能",
+            "date": "2025-09-18",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Microsoft：威斯康星建设说明",
+            "url": "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/",
+            "scope": "同一公司；项目建设阶段",
+            "date": "2025-09-18",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Microsoft：Fairwater 项目介绍",
+          "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/"
+        ],
+        [
+          "Microsoft：威斯康星建设说明",
+          "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/"
+        ]
+      ],
+      "verification": "更正为微软 Mount Pleasant 的 Fairwater。该站不应直接标成 OpenAI Stargate；最新投运状态仍需项目公告。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "meta-prometheus-ohio",
+      "name": "Prometheus Hyper-Cluster (普罗米修斯集群)",
+      "company": "Meta",
+      "companyTag": "Meta",
+      "category": "科技巨头",
+      "region": "北美洲",
+      "location": "美国俄亥俄州新奥尔巴尼 (New Albany)",
+      "lat": 40.0812,
+      "lng": -82.8088,
+      "investment": "单站投资未核实",
+      "powerMW": "未披露实测（GW 级为整体目标）",
+      "gpuCount": "NVIDIA Blackwell / NVL72；分期运行，配比未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "Meta 2026 年 10 月确认第一阶段完成并用于训练；约 100 万 GPU 是最终规模目标，不是已安装总数。核电协议也不等于园区直接核电供电。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA Blackwell / NVL72；分期运行，配比未披露",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Meta：Prometheus 工程详解",
+            "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+          ],
+          [
+            "New Albany：核能项目说明",
+            "https://newalbanyohio.org/news/2026/01/statement-regarding-metas-nuclear-energy-projects/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Prometheus Hyper-Cluster (普罗米修斯集群)",
+        "powerMW": "1,500 MW (1.5 GW)",
+        "investment": "$300亿+",
+        "gpuCount": "600,000+ (H100 / B200 / MTIA 混部)",
+        "status": "operational",
+        "description": "扎克伯格为全线开源与自研 Llama 4/5 大模型打造的超级算力基地。除了采购超 35 万张英伟达算力卡外，还规模化混部 Meta 自研 MTIA 算力芯片，拥有业内领先的 PUE 能效比。"
+      },
+      "evidence": {
+        "note": "Meta 2026 年 10 月确认第一阶段完成并用于训练；约 100 万 GPU 是最终规模目标，不是已安装总数。核电协议也不等于园区直接核电供电。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Meta：Prometheus 工程详解",
+            "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+            "scope": "第一阶段运营、NVL72 架构与最终规模目标",
+            "date": "2026-10-19",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "New Albany：核能项目说明",
+            "url": "https://newalbanyohio.org/news/2026/01/statement-regarding-metas-nuclear-energy-projects/",
+            "scope": "园区从区域电网取电，核设施不在本园区",
+            "date": "2026-01-15",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "AP：核能合作报道",
+            "url": "https://apnews.com/article/0eb051a9a11d96f7ce200e186ad13476",
+            "scope": "能源协议背景，非实时园区负载",
+            "date": "2026-01-09",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Meta：Prometheus 工程详解",
+          "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+        ],
+        [
+          "New Albany：核能项目说明",
+          "https://newalbanyohio.org/news/2026/01/statement-regarding-metas-nuclear-energy-projects/"
+        ],
+        [
+          "AP：核能合作报道",
+          "https://apnews.com/article/0eb051a9a11d96f7ce200e186ad13476"
+        ]
+      ],
+      "verification": "Meta 2026 年 10 月确认第一阶段完成并用于训练；约 100 万 GPU 是最终规模目标，不是已安装总数。核电协议也不等于园区直接核电供电。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "aws-rainier-nuclear",
+      "name": "AWS Project Rainier（多站项目）",
+      "company": "Amazon AWS",
+      "companyTag": "Amazon",
+      "category": "科技巨头",
+      "region": "北美洲",
+      "location": "美国宾夕法尼亚州塞勒姆镇 (Susquehanna)",
+      "lat": 41.0903,
+      "lng": -76.1458,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "AWS Trainium2；近 50 万颗为多站项目级披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "Rainier 是多数据中心计算集群，不把项目总卡数和核电站旁单一园区混合。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "AWS Trainium2；近 50 万颗为多站项目级披露",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Amazon：Project Rainier",
+            "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Project Rainier (核能直供算力园区)",
+        "powerMW": "960 MW",
+        "investment": "$6.5亿收购 + $100亿配套",
+        "gpuCount": "AWS Trainium2；项目级芯片部署已披露，非 NVIDIA GPU",
+        "status": "construction",
+        "description": "亚马逊 AWS 极具开创性的‘核算协同’样本。通过直接收购核电站旁的数据中心资产，避开了漫长的跨州输电网排队，实现核能发电机组与 AI 算力机架的点对点零碳直接供电。"
+      },
+      "evidence": {
+        "note": "Rainier 是多数据中心计算集群，不把项目总卡数和核电站旁单一园区混合。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Amazon：Project Rainier",
+            "url": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster",
+            "scope": "近 50 万 Trainium2 为多站项目级披露，非单点数量",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "单一来源 / 待交叉验证"
+      },
+      "sources": [
+        [
+          "Amazon：Project Rainier",
+          "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster"
+        ]
+      ],
+      "verification": "Rainier 是多数据中心计算集群，不把项目总卡数和核电站旁单一园区混合。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "google-council-bluffs",
+      "name": "Council Bluffs Mega AI Campus",
+      "company": "Google",
+      "companyTag": "Google",
+      "category": "科技巨头",
+      "region": "北美洲",
+      "location": "美国爱荷华州康瑟尔布拉夫斯",
+      "lat": 41.2269,
+      "lng": -95.8647,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "Google 官网确认 Council Bluffs 园区；第三方对 TPU 代际的估计不视为官方机房清单。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Google：Iowa 园区介绍",
+            "https://www.datacenters.google/locations/iowa/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Council Bluffs Mega AI Campus",
+        "powerMW": "850 MW",
+        "investment": "$70亿+",
+        "gpuCount": "TPU v5p / TPU v6 (Trillium) 超级 Pod 集群",
+        "status": "operational",
+        "description": "Google 核心大模型 Gemini 的主力‘母港’。内部署有全球规模最大的专用 TPU 芯片阵列，采用全光互联（OCS）光学交换机技术，在超低网络延迟与海量参数同步上处于行业标杆地位。"
+      },
+      "evidence": {
+        "note": "Google 官网确认 Council Bluffs 园区；第三方对 TPU 代际的估计不视为官方机房清单。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Google：Iowa 园区介绍",
+            "url": "https://www.datacenters.google/locations/iowa/",
+            "scope": "Council Bluffs 布局和扩建",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "独立研究 / 估算",
+            "title": "Epoch AI：Council Bluffs East",
+            "url": "https://epoch.ai/data/ai-data-centers/directory/google-council-bluffs-east",
+            "scope": "TPU 代际及容量为模型估算，不是官方披露",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "维基百科",
+            "title": "Google 数据中心",
+            "url": "https://en.wikipedia.org/wiki/Google_data_centers",
+            "scope": "背景与参考文献入口，不作为容量或芯片独立确认",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Google：Iowa 园区介绍",
+          "https://www.datacenters.google/locations/iowa/"
+        ],
+        [
+          "Epoch AI：Council Bluffs East",
+          "https://epoch.ai/data/ai-data-centers/directory/google-council-bluffs-east"
+        ],
+        [
+          "Google 数据中心",
+          "https://en.wikipedia.org/wiki/Google_data_centers"
+        ]
+      ],
+      "verification": "Google 官网确认 Council Bluffs 园区；第三方对 TPU 代际的估计不视为官方机房清单。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "france-paris-scaleway-mistral",
+      "name": "Paris Nabuchodonosor (法国巴黎 AI 算力中心)",
+      "company": "Scaleway & Mistral AI",
+      "companyTag": "Mistral/Scaleway",
+      "category": "欧洲独角兽",
+      "region": "欧洲",
+      "location": "法国巴黎大区 (Paris Region)",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "原记录混合 Scaleway 合作与 Mistral 自建园区。融资报道定位 Bruyères-le-Châtel；不能把欧洲总规模计入单站。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Mistral：Compute 产品",
+            "https://mistral.ai/cloud/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Paris Nabuchodonosor (法国巴黎 AI 算力中心)",
+        "powerMW": "150 MW",
+        "investment": "€15亿+ (~$16.5亿)",
+        "gpuCount": "上万张 H100 / H200 算力集群",
+        "status": "operational",
+        "description": "欧洲本土最大的人工智能超算中心之一。这里是欧洲头部开源 AI 明星企业 Mistral AI 的主要训练基地，依托法国稳定廉价的核电资源，PUE 低至 1.15，是欧洲绿色算力典范。"
+      },
+      "evidence": {
+        "note": "原记录混合 Scaleway 合作与 Mistral 自建园区。融资报道定位 Bruyères-le-Châtel；不能把欧洲总规模计入单站。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Mistral：Compute 产品",
+            "url": "https://mistral.ai/cloud/",
+            "scope": "服务平台背景，不证明原单站规模",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Bloomberg：Mistral 园区融资",
+            "url": "https://news.bloomberglaw.com/artificial-intelligence/mistral-raises-830-million-to-house-nvidia-chips-in-data-center",
+            "scope": "8.3 亿美元融资用途与地点，非投产确认",
+            "date": "2026-03-30",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "维基百科",
+            "title": "Mistral AI 引文入口",
+            "url": "https://fr.wikipedia.org/wiki/Mistral_AI",
+            "scope": "背景与参考文献入口，不作为容量或芯片独立确认",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "Mistral：Compute 产品",
+          "https://mistral.ai/cloud/"
+        ],
+        [
+          "Bloomberg：Mistral 园区融资",
+          "https://news.bloomberglaw.com/artificial-intelligence/mistral-raises-830-million-to-house-nvidia-chips-in-data-center"
+        ],
+        [
+          "Mistral AI 引文入口",
+          "https://fr.wikipedia.org/wiki/Mistral_AI"
+        ]
+      ],
+      "verification": "原记录混合 Scaleway 合作与 Mistral 自建园区。融资报道定位 Bruyères-le-Châtel；不能把欧洲总规模计入单站。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "saudi-neom-zero-carbon",
+      "name": "沙特 NEOM 新未来城零碳算力基地",
+      "company": "NEOM & 沙特公共投资基金 (PIF)",
+      "companyTag": "沙特NEOM",
+      "category": "中东主权算力",
+      "region": "中东地区",
+      "location": "沙特阿拉伯西北部塔布克省 NEOM 特区",
+      "lat": 28.0033,
+      "lng": 35.2346,
+      "investment": "单站投资未核实",
+      "powerMW": "360 MW（首期建设；非已投运）",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "以最新官方分期为准：360 MW 首期已开工，其中 100 MW 预计 2028 年可用；1.5 GW 为全园区规划。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "NEOM：DataVolt 合作",
+            "https://www.neom.com/en-us/newsroom/datavolt-signs-agreement-with-neom"
+          ],
+          [
+            "NEOM：HUMAIN / DataVolt 开工更新",
+            "https://www.neom.com/en-us/newsroom/HUMAIN-and-DataVolt-to-develop-AI-data-center-in-NEOM"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "沙特 NEOM 新未来城零碳算力基地",
+        "powerMW": "500 MW (规划 2 GW)",
+        "investment": "$50亿+",
+        "gpuCount": "100,000+ (Blackwell / H100)",
+        "status": "construction",
+        "description": "沙特‘2030愿景’的旗舰 AI 算力明珠。凭借沙特红海沿岸全球最高的太阳辐照度，实现全天候纯绿电驱动的超大型算力中心，打造连接亚洲、欧洲与非洲的全球算力数据枢纽。"
+      },
+      "evidence": {
+        "note": "以最新官方分期为准：360 MW 首期已开工，其中 100 MW 预计 2028 年可用；1.5 GW 为全园区规划。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "NEOM：DataVolt 合作",
+            "url": "https://www.neom.com/en-us/newsroom/datavolt-signs-agreement-with-neom",
+            "scope": "2025 初始计划与投资范围",
+            "date": "2025-02-10",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "NEOM：HUMAIN / DataVolt 开工更新",
+            "url": "https://www.neom.com/en-us/newsroom/HUMAIN-and-DataVolt-to-develop-AI-data-center-in-NEOM",
+            "scope": "360 MW 首期、100 MW 2028 目标、1.5 GW 远期",
+            "date": "2026-08-31",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "NEOM：DataVolt 合作",
+          "https://www.neom.com/en-us/newsroom/datavolt-signs-agreement-with-neom"
+        ],
+        [
+          "NEOM：HUMAIN / DataVolt 开工更新",
+          "https://www.neom.com/en-us/newsroom/HUMAIN-and-DataVolt-to-develop-AI-data-center-in-NEOM"
+        ]
+      ],
+      "verification": "以最新官方分期为准：360 MW 首期已开工，其中 100 MW 预计 2028 年可用；1.5 GW 为全园区规划。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "g42-stargate-uae",
+      "name": "Stargate UAE 阿布扎比项目",
+      "company": "G42 / OpenAI / Oracle / NVIDIA / Cisco / SoftBank",
+      "companyTag": "G42",
+      "category": "中东主权算力",
+      "region": "中东地区",
+      "location": "阿联酋阿布扎比 (Abu Dhabi)",
+      "lat": 24.4539,
+      "lng": 54.3773,
+      "investment": "单站投资未核实",
+      "powerMW": "1000 MW（总规划；首期目标 200 MW）",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "1 GW 为 Stargate UAE 计划，200 MW 为 2026 首期目标，不把更大的美阿园区全量算入。社交航拍估算单列。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "OpenAI：Stargate UAE",
+            "https://openai.com/index/introducing-stargate-uae/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "G42 / Microsoft 阿布扎比 AI 超算基地",
+        "powerMW": "400 MW",
+        "investment": "$15亿战略投资 + $50亿配套",
+        "gpuCount": "150,000+ (H100 / GB200)",
+        "status": "construction",
+        "description": "中东地区最具地缘科技战略意义的 AI 枢纽。由阿联酋主权背景 G42 与微软深度结盟打造，依托阿联酋充沛的巴拉卡核能与沙漠光伏，致力于成为欧亚非交界的超级算力中枢。"
+      },
+      "evidence": {
+        "note": "1 GW 为 Stargate UAE 计划，200 MW 为 2026 首期目标，不把更大的美阿园区全量算入。社交航拍估算单列。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "OpenAI：Stargate UAE",
+            "url": "https://openai.com/index/introducing-stargate-uae/",
+            "scope": "Abu Dhabi、1 GW 总规划、200 MW 首期目标",
+            "date": "2025-05-22",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Axios：Stargate UAE 公告报道",
+            "url": "https://www.axios.com/2025/05/22/uae-openai-stargate-deal",
+            "scope": "独立媒体核对参与方与公告规模",
+            "date": "2025-05-22",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "X / 待复核",
+            "title": "SemiAnalysis：UAE 建设跟踪",
+            "url": "https://x.com/SemiAnalysis_/status/2004743498298523788",
+            "scope": "专家观察线索；原帖 403，未纳入容量确认",
+            "date": "见原帖",
+            "access": "原帖返回 403；仅找到外部引用，不纳入已验证证据",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "OpenAI：Stargate UAE",
+          "https://openai.com/index/introducing-stargate-uae/"
+        ],
+        [
+          "Axios：Stargate UAE 公告报道",
+          "https://www.axios.com/2025/05/22/uae-openai-stargate-deal"
+        ]
+      ],
+      "verification": "1 GW 为 Stargate UAE 计划，200 MW 为 2026 首期目标，不把更大的美阿园区全量算入。社交航拍估算单列。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "india-gujarat-reliance-jio",
+      "name": "Reliance / Meta Jamnagar 数据中心项目",
+      "company": "Reliance Jio (信实工业) & NVIDIA",
+      "companyTag": "Reliance Jio",
+      "category": "科技巨头",
+      "region": "亚太地区",
+      "location": "印度古吉拉特邦贾姆讷格尔 (Jamnagar, Gujarat)",
+      "lat": 22.4707,
+      "lng": 70.0577,
+      "investment": "单站投资未核实",
+      "powerMW": "168 MW（合同建设规模）",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "planned",
+      "statusText": "规划记录 · 非已投运",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "Jamnagar 有多个合作与分期。2026 官方可确认 Meta 租用项目 168 MW，原 3 GW 全园区数字不等于这个合同。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Reliance：Meta Jamnagar 合作",
+            "https://www.ril.com/sites/default/files/2026-06/SE_10062026.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Reliance Jio & NVIDIA 贾姆讷格尔吉瓦级绿色 AI 基地",
+        "powerMW": "1,000 MW (1 GW 规划峰值)",
+        "investment": "$50亿+ (百亿美元数字基建核心工程)",
+        "gpuCount": "100,000+ (Blackwell GB200 / H100 万卡池)",
+        "status": "construction",
+        "description": "印度首富穆克什·安巴尼与黄仁勋联合签署的世纪级 AI 基建合作。信实 Jio 将依托古吉拉特邦充沛的绿电与千兆瓦级光伏体系，建设 1 GW 级的国家级绿色超算中心，部署最新的 Blackwell GB200 芯片，为全印度 14 亿人口提供普惠的 Jio AI Cloud 与印度本土多语言大语言模型服务。"
+      },
+      "evidence": {
+        "note": "Jamnagar 有多个合作与分期。2026 官方可确认 Meta 租用项目 168 MW，原 3 GW 全园区数字不等于这个合同。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Reliance：Meta Jamnagar 合作",
+            "url": "https://www.ril.com/sites/default/files/2026-06/SE_10062026.pdf",
+            "scope": "168 MW、预计两年交付、可扩容",
+            "date": "2026-06-10",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "维基百科",
+            "title": "Reliance 背景",
+            "url": "https://en.wikipedia.org/wiki/Reliance_Industries",
+            "scope": "背景与参考文献入口，不作为容量或芯片独立确认",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Reliance：Meta Jamnagar 合作",
+          "https://www.ril.com/sites/default/files/2026-06/SE_10062026.pdf"
+        ],
+        [
+          "Reliance 背景",
+          "https://en.wikipedia.org/wiki/Reliance_Industries"
+        ]
+      ],
+      "verification": "Jamnagar 有多个合作与分期。2026 官方可确认 Meta 租用项目 168 MW，原 3 GW 全园区数字不等于这个合同。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "india-mumbai-yotta-shakti",
+      "name": "Yotta NM1 / Shakti Cloud 新孟买节点",
+      "company": "Yotta Data Services (Hiranandani 集团)",
+      "companyTag": "Yotta",
+      "category": "新兴算力厂商",
+      "region": "亚太地区",
+      "location": "印度马哈拉施特拉邦新孟买 (Navi Mumbai)",
+      "lat": 19.033,
+      "lng": 73.0297,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA H100；2024 首批 4000+，当前总量未确认",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "官方确认 NM1 收到 H100 首批；采购订单、交付和已部署须分开，不能把整个 Shakti Cloud 数量都分给 NM1。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA H100；2024 首批 4000+，当前总量未确认",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Yotta：NM1 首批 H100",
+            "https://yotta.com/press-releases/yotta-receives-indias-first-ever-consignment-of-nvidia-h100-the-fastest-gpus-in-the-world-at-its-nm1-data-center-park/"
+          ],
+          [
+            "Yotta：Shakti Cloud 产品册",
+            "https://www.yotta.com/wp-content/uploads/Yotta-Shakti-Cloud-Brochure.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Yotta Shakti-Cloud 新孟买超算中心 (NM1/D1)",
+        "powerMW": "250 MW (多园区规划 500 MW)",
+        "investment": "$20亿+",
+        "gpuCount": "32,768 张 (首批 16,384 张 H100 已投运，二期 Blackwell 进场)",
+        "status": "operational",
+        "description": "印度规模最大、交付最快的商业级 AI 主权算力云。作为英伟达在南亚的最高级别合作伙伴，Yotta 打造了“Shakti-Cloud”超算平台，已向印度电信部门、顶尖 IIT 院校、本土 AI 独角兽交付万张 H100 算力切片，是印度国家 AI 使命 (IndiaAI Mission) 的首要算力承载平台。"
+      },
+      "evidence": {
+        "note": "官方确认 NM1 收到 H100 首批；采购订单、交付和已部署须分开，不能把整个 Shakti Cloud 数量都分给 NM1。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Yotta：NM1 首批 H100",
+            "url": "https://yotta.com/press-releases/yotta-receives-indias-first-ever-consignment-of-nvidia-h100-the-fastest-gpus-in-the-world-at-its-nm1-data-center-park/",
+            "scope": "2024 年 3 月首批超过 4000 颗 H100；其余为计划",
+            "date": "2024-03-19",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Yotta：Shakti Cloud 产品册",
+            "url": "https://www.yotta.com/wp-content/uploads/Yotta-Shakti-Cloud-Brochure.pdf",
+            "scope": "平台硬件架构，非单站当前卡数",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Yotta：NM1 首批 H100",
+          "https://yotta.com/press-releases/yotta-receives-indias-first-ever-consignment-of-nvidia-h100-the-fastest-gpus-in-the-world-at-its-nm1-data-center-park/"
+        ],
+        [
+          "Yotta：Shakti Cloud 产品册",
+          "https://www.yotta.com/wp-content/uploads/Yotta-Shakti-Cloud-Brochure.pdf"
+        ]
+      ],
+      "verification": "官方确认 NM1 收到 H100 首批；采购订单、交付和已部署须分开，不能把整个 Shakti Cloud 数量都分给 NM1。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "india-vizag-adaniconnex",
+      "name": "Google / AdaniConneX Visakhapatnam AI hub",
+      "company": "AdaniConneX (阿达尼集团 & EdgeConneX)",
+      "companyTag": "AdaniConneX",
+      "category": "科技巨头",
+      "region": "亚太地区",
+      "location": "印度安得拉邦维沙卡帕特南 (Visakhapatnam, Andhra Pradesh)",
+      "lat": 17.6868,
+      "lng": 83.2185,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "区分 Adani 早期项目与 Google AI hub。2025 公告为整体多年投资，2026 交易所公告确认开工。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Adani：Google Visakhapatnam 合作",
+            "https://www.adanienterprises.com/newsroom/media-releases/adani-and-google-partner-to-build-indias-largest-data-centre-campus-in-visakhapatnam"
+          ],
+          [
+            "NSE：Google AI hub 开工",
+            "https://nsearchives.nseindia.com/corporate/ADANIENT_28042026133219_AELIntimationforMediaRelease28042026.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "AdaniConneX 维沙卡帕特南超级绿电智算港",
+        "powerMW": "500 MW (管线合计 1 GW)",
+        "investment": "$30亿+",
+        "gpuCount": "80,000+",
+        "status": "construction",
+        "description": "印度基础设施巨擘阿达尼集团与全球超大规模数据中心先锋 EdgeConneX 打造的 1 GW 算力管线旗舰。紧邻孟加拉湾海底光缆核心登陆站，将印度本土可再生能源转化为面向全球跨国企业的极具成本优势的绿色 AI 计算能力。"
+      },
+      "evidence": {
+        "note": "区分 Adani 早期项目与 Google AI hub。2025 公告为整体多年投资，2026 交易所公告确认开工。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Adani：Google Visakhapatnam 合作",
+            "url": "https://www.adanienterprises.com/newsroom/media-releases/adani-and-google-partner-to-build-indias-largest-data-centre-campus-in-visakhapatnam",
+            "scope": "GW 级 AI hub；150 亿美元含网络与能源",
+            "date": "2025-10-14",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "NSE：Google AI hub 开工",
+            "url": "https://nsearchives.nseindia.com/corporate/ADANIENT_28042026133219_AELIntimationforMediaRelease28042026.pdf",
+            "scope": "Tarluvada 开工事件",
+            "date": "2026-04-28",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Adani：Google Visakhapatnam 合作",
+          "https://www.adanienterprises.com/newsroom/media-releases/adani-and-google-partner-to-build-indias-largest-data-centre-campus-in-visakhapatnam"
+        ],
+        [
+          "NSE：Google AI hub 开工",
+          "https://nsearchives.nseindia.com/corporate/ADANIENT_28042026133219_AELIntimationforMediaRelease28042026.pdf"
+        ]
+      ],
+      "verification": "区分 Adani 早期项目与 Google AI hub。2025 公告为整体多年投资，2026 交易所公告确认开工。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "malaysia-johor-ytl-nvidia",
+      "name": "YTL 柔佛古来绿色智算产业园 (YTL & NVIDIA AI Cloud)",
+      "company": "YTL Power (杨忠礼电力) & NVIDIA",
+      "companyTag": "YTL & Nvidia",
+      "category": "亚太算力枢纽",
+      "region": "亚太地区",
+      "location": "马来西亚柔佛州古来 (Kulai, Johor Bahru)",
+      "lat": 1.6565,
+      "lng": 103.6006,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA GB200 / Blackwell；园区配比未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "确认 YTL 柔佛 AI Cloud 与 GB200。500 / 600 MW 为园区发展口径，不当作当期 AI 负载。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA GB200 / Blackwell；园区配比未披露",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "YTL AI Cloud：项目介绍",
+            "https://www.ytlaicloud.com/about-us/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "YTL 柔佛古来绿色智算产业园 (YTL & NVIDIA AI Cloud)",
+        "powerMW": "500 MW (全园区规划达数吉瓦容量)",
+        "investment": "$43亿 (200 亿马来西亚林吉特)",
+        "gpuCount": "120,000+ (首批 GB200 NVL72 与 GH200 超算集群)",
+        "status": "construction",
+        "description": "东南亚算力大爆发的绝对地标！由于新加坡土地与电力政策受限，全球算力需求外溢至仅一水之隔的马来西亚柔佛州。杨忠礼集团与黄仁勋亲密结盟，投巨资建设东南亚速度最快、规模最大的主权 AI 智算基础设施，以超低时延光纤直连新加坡全球金融节点与东南亚千万级互联网用户。"
+      },
+      "evidence": {
+        "note": "确认 YTL 柔佛 AI Cloud 与 GB200。500 / 600 MW 为园区发展口径，不当作当期 AI 负载。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "YTL AI Cloud：项目介绍",
+            "url": "https://www.ytlaicloud.com/about-us/",
+            "scope": "Johor、GB200、园区扩容目标",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Bernama：Blackwell 平台报道",
+            "url": "https://www.bernama.com/en/news.php?id=2403800",
+            "scope": "2025 年部署计划",
+            "date": "2025-03-19",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "The Edge：首个 AI 设施完成",
+            "url": "https://theedgemalaysia.com/node/776142",
+            "scope": "运营事件；600 MW 指园区，不是当前 GPU 用电",
+            "date": "2025-10-31",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "维基百科",
+            "title": "YTL Power",
+            "url": "https://en.wikipedia.org/wiki/YTL_Power",
+            "scope": "背景与参考文献入口，不作为容量或芯片独立确认",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "YTL AI Cloud：项目介绍",
+          "https://www.ytlaicloud.com/about-us/"
+        ],
+        [
+          "Bernama：Blackwell 平台报道",
+          "https://www.bernama.com/en/news.php?id=2403800"
+        ],
+        [
+          "The Edge：首个 AI 设施完成",
+          "https://theedgemalaysia.com/node/776142"
+        ],
+        [
+          "YTL Power",
+          "https://en.wikipedia.org/wiki/YTL_Power"
+        ]
+      ],
+      "verification": "确认 YTL 柔佛 AI Cloud 与 GB200。500 / 600 MW 为园区发展口径，不当作当期 AI 负载。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "malaysia-johor-bytedance-bridge",
+      "name": "字节跳动 (ByteDance) 柔佛 Sedenak 智算中心",
+      "company": "字节跳动 (ByteDance) / Bridge Data Centres",
+      "companyTag": "字节跳动",
+      "category": "科技巨头",
+      "region": "亚太地区",
+      "location": "马来西亚柔佛州士年纳科技园 (Sedenak Tech Park, Johor)",
+      "lat": 1.705,
+      "lng": 103.528,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "官方投资机构确认 MY06 一期 2022 年开业、字节为锚定租户。110 MW 项目与研究机构后续估算范围不同，暂不统一容量。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "MIDA：MY06 一期开业",
+            "https://www.mida.gov.my/media-release/bridge-data-centres-and-bytedance-celebrate-grand-opening-of-the-first-phase-hyperscale-data-centre-my06-in-johor-malaysia/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "字节跳动 (ByteDance) 柔佛 Sedenak 智算中心",
+        "powerMW": "350 MW",
+        "investment": "$21亿+ (100 亿林吉特追加规划)",
+        "gpuCount": "150,000+ (支撑 TikTok 全球推荐与海内外大模型集群)",
+        "status": "operational",
+        "description": "字节跳动在东南亚以及全球最核心的离岸智算枢纽之一。承载 TikTok 全球日活数亿用户的超级推荐算法引擎，并作为豆包海外版等生成式 AI 大模型在亚太地区的核心训练与推理中继站，为东盟及全球业务提供极致稳定的算力支撑。"
+      },
+      "evidence": {
+        "note": "官方投资机构确认 MY06 一期 2022 年开业、字节为锚定租户。110 MW 项目与研究机构后续估算范围不同，暂不统一容量。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "MIDA：MY06 一期开业",
+            "url": "https://www.mida.gov.my/media-release/bridge-data-centres-and-bytedance-celebrate-grand-opening-of-the-first-phase-hyperscale-data-centre-my06-in-johor-malaysia/",
+            "scope": "一期投产、110 MW 全项目、租户关系",
+            "date": "2022-10-20",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "独立研究 / 估算",
+            "title": "Epoch AI：MY06",
+            "url": "https://epoch.ai/data/ai-data-centers/directory/bridge-data-centres-my06",
+            "scope": "容量 / 芯片为估算，与 2022 公告时间和范围不同",
+            "date": "2026-10-12",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "MIDA：MY06 一期开业",
+          "https://www.mida.gov.my/media-release/bridge-data-centres-and-bytedance-celebrate-grand-opening-of-the-first-phase-hyperscale-data-centre-my06-in-johor-malaysia/"
+        ],
+        [
+          "Epoch AI：MY06",
+          "https://epoch.ai/data/ai-data-centers/directory/bridge-data-centres-my06"
+        ]
+      ],
+      "verification": "官方投资机构确认 MY06 一期 2022 年开业、字节为锚定租户。110 MW 项目与研究机构后续估算范围不同，暂不统一容量。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "singapore-tuas-singtel-nxera",
+      "name": "Singtel Nxera 大士超级 AI 数据中心 (DC Tuas)",
+      "company": "新加坡电信 (Singtel) & NVIDIA",
+      "companyTag": "Singtel",
+      "category": "亚太算力枢纽",
+      "region": "亚太地区",
+      "location": "新加坡大士工业区 (Tuas, Singapore)",
+      "lat": 1.32,
+      "lng": 103.645,
+      "investment": "单站投资未核实",
+      "powerMW": "58 MW（已开业设施 IT 设计容量）",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "运营商新闻与项目规格一致：DC Tuas 于 2026-02 开业、58 MW IT capacity；容量不等于实际瞬时耗电或全为 GPU。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Singtel：DC Tuas 开业",
+            "https://www.singtel.com/about-us/media-centre/news-releases/nxera-opens-data-centre"
+          ],
+          [
+            "Nxera：DC Tuas 规格",
+            "https://www.nxera-dc.com/our-reach/singapore-dc-tuas"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Singtel Nxera 大士超级 AI 数据中心 (DC Tuas)",
+        "powerMW": "58 MW (针对高密度 AI 芯片定制)",
+        "investment": "15 亿新币 (~$11 亿美元)",
+        "gpuCount": "40,000+ (Hopper & Blackwell AI 架构机架)",
+        "status": "construction",
+        "description": "新加坡应对 AI 浪潮、重新开放数据中心审批后的标杆之作。由新加坡电信旗下 Nxera 与英伟达深度绑定，单机柜设计功率高达 100 kW+，全方位配备直接液冷（DLC）与浸没式架构，作为东南亚企业与金融机构的核心枢纽，提供 GPU 即服务（GPUaaS）。"
+      },
+      "evidence": {
+        "note": "运营商新闻与项目规格一致：DC Tuas 于 2026-02 开业、58 MW IT capacity；容量不等于实际瞬时耗电或全为 GPU。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Singtel：DC Tuas 开业",
+            "url": "https://www.singtel.com/about-us/media-centre/news-releases/nxera-opens-data-centre",
+            "scope": "58 MW AI-ready 容量与开业",
+            "date": "2026-02-09",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Nxera：DC Tuas 规格",
+            "url": "https://www.nxera-dc.com/our-reach/singapore-dc-tuas",
+            "scope": "IT load 最高 58 MW；同集团项目页",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Singtel：DC Tuas 开业",
+          "https://www.singtel.com/about-us/media-centre/news-releases/nxera-opens-data-centre"
+        ],
+        [
+          "Nxera：DC Tuas 规格",
+          "https://www.nxera-dc.com/our-reach/singapore-dc-tuas"
+        ]
+      ],
+      "verification": "运营商新闻与项目规格一致：DC Tuas 于 2026-02 开业、58 MW IT capacity；容量不等于实际瞬时耗电或全为 GPU。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "indonesia-jakarta-indosat-bdx",
+      "name": "BDx / Indosat CGK4 Jatiluhur AI 园区",
+      "company": "BDx / Indosat / Lintasarta",
+      "companyTag": "BDx",
+      "category": "亚太算力枢纽",
+      "region": "亚太地区",
+      "location": "印尼 Jatiluhur（区域级示意点）",
+      "lat": -6.53,
+      "lng": 107.38,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "实际站点为 Jatiluhur CGK4。2024 的 500 MW 与现行 640 MW 是分期扩展规划，不是已运行规模。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "BDx：CGK4 首期完成",
+            "https://www.bdxworld.com/bdx-data-centers-launches-the-first-phase-of-500mw-renewable-powered-ai-campus-in-indonesia/"
+          ],
+          [
+            "BDx：CGK4 现行规格",
+            "https://www.bdxworld.com/locations/cgk4/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Indosat & BDx 印度尼西亚主权 AI 智算基地",
+        "powerMW": "120 MW",
+        "investment": "$10亿+",
+        "gpuCount": "25,000+ (NVIDIA Tensor Core GPU 集群)",
+        "status": "operational",
+        "description": "印尼最大电信运营商之一 Indosat 联手英伟达打造的东盟最大主权大模型算力中心。专门用于训练印尼本地语言与文化背景的多模态开源大模型 Sahabat-AI，为两亿七千万印尼人口提供本土化 AI 应用。"
+      },
+      "evidence": {
+        "note": "实际站点为 Jatiluhur CGK4。2024 的 500 MW 与现行 640 MW 是分期扩展规划，不是已运行规模。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "BDx：CGK4 首期完成",
+            "url": "https://www.bdxworld.com/bdx-data-centers-launches-the-first-phase-of-500mw-renewable-powered-ai-campus-in-indonesia/",
+            "scope": "首期完成、500 MW 可扩展目标",
+            "date": "2024-07-31",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "BDx：CGK4 现行规格",
+            "url": "https://www.bdxworld.com/locations/cgk4/",
+            "scope": "640 MW 分期规划；不是全量投运",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "BDx：CGK4 首期完成",
+          "https://www.bdxworld.com/bdx-data-centers-launches-the-first-phase-of-500mw-renewable-powered-ai-campus-in-indonesia/"
+        ],
+        [
+          "BDx：CGK4 现行规格",
+          "https://www.bdxworld.com/locations/cgk4/"
+        ]
+      ],
+      "verification": "实际站点为 Jatiluhur CGK4。2024 的 500 MW 与现行 640 MW 是分期扩展规划，不是已运行规模。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "australia-sydney-airtrunk",
+      "name": "AirTrunk 悉尼 SYD3 数据中心",
+      "company": "AirTrunk (黑石集团 Blackstone 160亿美元控股)",
+      "companyTag": "AirTrunk",
+      "category": "新兴算力厂商",
+      "region": "亚太地区",
+      "location": "澳大利亚新南威尔士州悉尼 (Sydney) / 墨尔本",
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "确认 SYD3 园区；320+ MW 为开发规模，不当作当前 AI 集群用电，单站芯片由租户决定。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "AirTrunk：SYD3 园区开发",
+            "https://airtrunk.com/airtrunk-expands-western-sydney-region-with-new-syd3-hyperscale-data-centre-asia-pacifics-largest/"
+          ],
+          [
+            "Macquarie：AirTrunk 项目案例",
+            "https://www.macquarie.com/assets/macq/impact/esg/whs-case-study-air-trunk.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "AirTrunk 悉尼与墨尔本超大规模 AI 智算母港 (SYD2/SYD3)",
+        "powerMW": "850 MW (全澳在册规划储备超 1.5 GW)",
+        "investment": "240 亿澳元 (~$160 亿美元被黑石收购)",
+        "gpuCount": "300,000+ (服务 AWS、微软、Google 亚太大模型集群)",
+        "status": "operational",
+        "description": "全球私募巨头黑石集团 (Blackstone) 史上最大一笔数据中心收购案主角！AirTrunk 是亚太地区毫无争议的超级算力底座，专门为微软、亚马逊、谷歌等科技巨头提供超大规模 AI 厂房。其悉尼与墨尔本园区正在全面升级液冷管网，以承接南半球最大规模的万卡 Blackwell 算力集群。"
+      },
+      "evidence": {
+        "note": "确认 SYD3 园区；320+ MW 为开发规模，不当作当前 AI 集群用电，单站芯片由租户决定。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "AirTrunk：SYD3 园区开发",
+            "url": "https://airtrunk.com/airtrunk-expands-western-sydney-region-with-new-syd3-hyperscale-data-centre-asia-pacifics-largest/",
+            "scope": "SYD3 位置与原开发容量；不是最新投产量",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Macquarie：AirTrunk 项目案例",
+            "url": "https://www.macquarie.com/assets/macq/impact/esg/whs-case-study-air-trunk.pdf",
+            "scope": "投资方项目资料；非独立运营审计",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "AirTrunk：SYD3 园区开发",
+          "https://airtrunk.com/airtrunk-expands-western-sydney-region-with-new-syd3-hyperscale-data-centre-asia-pacifics-largest/"
+        ],
+        [
+          "Macquarie：AirTrunk 项目案例",
+          "https://www.macquarie.com/assets/macq/impact/esg/whs-case-study-air-trunk.pdf"
+        ]
+      ],
+      "verification": "确认 SYD3 园区；320+ MW 为开发规模，不当作当前 AI 集群用电，单站芯片由租户决定。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "australia-sydney-nextdc",
+      "name": "NEXTDC 悉尼 S4 数据中心",
+      "company": "NextDC & NVIDIA DGX Cloud",
+      "companyTag": "NextDC",
+      "category": "亚太算力枢纽",
+      "region": "亚太地区",
+      "location": "澳大利亚悉尼阿尔塔蒙 (Artarmon, Sydney)",
+      "lat": -33.8122,
+      "lng": 151.1824,
+      "investment": "单站投资未核实",
+      "powerMW": "未统一（300 / 365 MW 见来源）",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "NEXTDC 现行 S4 页面为 365 MW，审批说明为 300 MW。属于版本 / 范围差异，显示双方口径而不直接相加。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "NEXTDC：S4 现行项目页",
+            "https://www.nextdc.com/data-centres/sydney-data-centres/s4-sydney"
+          ],
+          [
+            "NEXTDC：S4 Lot 305 审批资料",
+            "https://www.nextdc.com/s4-lot-305-conditions-of-consent"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "NextDC 悉尼 S3/S4 AI 智算工厂",
+        "powerMW": "300 MW",
+        "investment": "30 亿澳元 (~$20 亿美元)",
+        "gpuCount": "60,000+ (NVIDIA DGX SuperPOD 集群)",
+        "status": "operational",
+        "description": "澳大利亚本土最负盛名的数据中心巨头与英伟达官方签约合作伙伴。NextDC 将其 S3 与墨尔本 M3 彻底重构为“AI 智算工厂”，成为南半球最早原生支持 NVIDIA DGX SuperPOD 与芯片级直接液冷（Direct-to-Chip）的商业算力中心，服务澳洲科研机构与跨国金融企业。"
+      },
+      "evidence": {
+        "note": "NEXTDC 现行 S4 页面为 365 MW，审批说明为 300 MW。属于版本 / 范围差异，显示双方口径而不直接相加。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "NEXTDC：S4 现行项目页",
+            "url": "https://www.nextdc.com/data-centres/sydney-data-centres/s4-sydney",
+            "scope": "365 MW IT capacity；In Development",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "NEXTDC：S4 Lot 305 审批资料",
+            "url": "https://www.nextdc.com/s4-lot-305-conditions-of-consent",
+            "scope": "300 MW 审批范围；与现行页面不同",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "NEXTDC：S4 现行项目页",
+          "https://www.nextdc.com/data-centres/sydney-data-centres/s4-sydney"
+        ],
+        [
+          "NEXTDC：S4 Lot 305 审批资料",
+          "https://www.nextdc.com/s4-lot-305-conditions-of-consent"
+        ]
+      ],
+      "verification": "NEXTDC 现行 S4 页面为 365 MW，审批说明为 300 MW。属于版本 / 范围差异，显示双方口径而不直接相加。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "australia-sydney-microsoft-cloud",
+      "name": "Microsoft 澳大利亚区域基础设施（非单园区）",
+      "company": "Microsoft",
+      "companyTag": "微软",
+      "category": "科技巨头",
+      "region": "亚太地区",
+      "location": "澳大利亚新南威尔士州大悉尼地区",
+      "lat": -33.796,
+      "lng": 150.95,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "这是全国基础设施投资，涉及 Sydney / Melbourne / Canberra；不能当作悉尼单站容量或投资。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Microsoft：澳大利亚投资更新",
+            "https://news.microsoft.com/source/asia/features/investing-in-australias-ai-future/"
+          ],
+          [
+            "澳大利亚工业部：Microsoft MOU",
+            "https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "微软 (Microsoft) 澳大利亚超级 AI 云枢纽",
+        "powerMW": "400 MW",
+        "investment": "50 亿澳元 (~$33 亿美元)",
+        "gpuCount": "120,000+ (Azure AI & OpenAI 澳洲训练推理中枢)",
+        "status": "construction",
+        "description": "微软进入澳大利亚 40 年以来单笔规模最大的投资。这笔高达 50 亿澳元的历史性注资，将微软在澳洲的算力足迹从 20 处扩展至 29 处，使计算能力猛增 250%，专门为澳洲政府、联邦银行及科研机构提供本土主权合规的 Azure OpenAI 与大模型基础设施。"
+      },
+      "evidence": {
+        "note": "这是全国基础设施投资，涉及 Sydney / Melbourne / Canberra；不能当作悉尼单站容量或投资。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Microsoft：澳大利亚投资更新",
+            "url": "https://news.microsoft.com/source/asia/features/investing-in-australias-ai-future/",
+            "scope": "全国 250 亿澳元至 2029 年；不是单站投资",
+            "date": "2026",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "澳大利亚工业部：Microsoft MOU",
+            "url": "https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft",
+            "scope": "2023 项目扩至 29 站及国家级合作",
+            "date": "2026-04-23",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "Microsoft：澳大利亚投资更新",
+          "https://news.microsoft.com/source/asia/features/investing-in-australias-ai-future/"
+        ],
+        [
+          "澳大利亚工业部：Microsoft MOU",
+          "https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft"
+        ]
+      ],
+      "verification": "这是全国基础设施投资，涉及 Sydney / Melbourne / Canberra；不能当作悉尼单站容量或投资。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "africa-uganda-aeonian-nvidia",
+      "name": "Synectics Aeonian 乌干达规划项目",
+      "company": "Aeonian & NVIDIA (英伟达赋能)",
+      "companyTag": "NVIDIA/Aeonian",
+      "category": "新兴算力厂商",
+      "region": "非洲地区",
+      "location": "乌干达恩德培 / 坎帕拉 (Entebbe / Kampala, Uganda)",
+      "lat": 0.0512,
+      "lng": 32.4637,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "planned",
+      "statusText": "规划记录 · 非已投运",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "开发商介绍确认 Aeonian 规划与水电方案；10 MW 超算与 100 MW 电源规划属于不同范围，NVIDIA 具体卡数未确认。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Synectics：Aeonian 项目介绍",
+            "https://synectics-tech.com/what-we-do/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "乌干达 Aeonian 非洲首座 AI 工厂与超算中心",
+        "powerMW": "100 MW (90 MW AI工厂 + 10 MW 国家超算)",
+        "investment": "$8亿+",
+        "gpuCount": "30,000+ (NVIDIA Hopper / Blackwell 架构)",
+        "status": "construction",
+        "description": "在英伟达（NVIDIA）技术方案与生态强力支持下推进的非洲首个吉瓦级预演 AI 工厂！该项目总规划容量高达 100 MW，其中 90 MW 专门用于大规模深度学习大模型训练的 AI 工厂，10 MW 分配给乌干达国家超算中心，依托尼罗河充沛零碳水电，打造东非甚至全非的大模型与生命科学计算引擎。"
+      },
+      "evidence": {
+        "note": "开发商介绍确认 Aeonian 规划与水电方案；10 MW 超算与 100 MW 电源规划属于不同范围，NVIDIA 具体卡数未确认。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Synectics：Aeonian 项目介绍",
+            "url": "https://synectics-tech.com/what-we-do/",
+            "scope": "规划中 DHPC、Karuma 电源方案",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Firstpost：Aeonian 报道",
+            "url": "https://www.youtube.com/watch?v=NcR2jF6j8_g",
+            "scope": "10 MW 超算为报道口径；非竣工证据",
+            "date": "2025-09-17",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Synectics：Aeonian 项目介绍",
+          "https://synectics-tech.com/what-we-do/"
+        ],
+        [
+          "Firstpost：Aeonian 报道",
+          "https://www.youtube.com/watch?v=NcR2jF6j8_g"
+        ]
+      ],
+      "verification": "开发商介绍确认 Aeonian 规划与水电方案；10 MW 超算与 100 MW 电源规划属于不同范围，NVIDIA 具体卡数未确认。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "africa-kenya-microsoft-g42",
+      "name": "肯尼亚东非地热绿色智算中心 (微软 & G42)",
+      "company": "微软 (Microsoft) & G42 (阿联酋)",
+      "companyTag": "G42/微软",
+      "category": "科技巨头",
+      "region": "非洲地区",
+      "location": "肯尼亚奥卡利亚东非大裂谷地热区 (Olkaria, Naivasha)",
+      "lat": -0.893,
+      "lng": 36.311,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "2024 为建设意向；2026 报道项目因电力安排受阻，不能延用原预计时间宣称已运营。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Microsoft：肯尼亚合作意向",
+            "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "肯尼亚东非地热绿色智算中心 (微软 & G42)",
+        "powerMW": "100 MW (规划可扩展至更高)",
+        "investment": "$10亿美元 (肯尼亚史上最大数字基建协议)",
+        "gpuCount": "40,000+ (Azure AI 泛非枢纽)",
+        "status": "construction",
+        "description": "微软与阿联酋科技巨头 G42 联合投资 10 亿美元在肯尼亚打造的世纪级绿色 AI 项目。全球首个直接建在火山地热田上的 100 MW 智算中心，100% 采用零碳东非地热蒸汽发电作为基荷电力，彻底规避电网波动，为肯尼亚政府、东非大模型创新中心及斯瓦希里语多模态大模型提供全球领先算力支持。"
+      },
+      "evidence": {
+        "note": "2024 为建设意向；2026 报道项目因电力安排受阻，不能延用原预计时间宣称已运营。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Microsoft：肯尼亚合作意向",
+            "url": "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/",
+            "scope": "Olkaria 园区规划；10 亿美元是整体计划",
+            "date": "2024-05-22",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Tom’s Hardware：项目受阻",
+            "url": "https://www.tomshardware.com/tech-industry/microsofts-1-billion-kenya-data-center-stalls-over-disagreements-on-power-capacity",
+            "scope": "援引报道：电力安排分歧；最新状态需官方更新",
+            "date": "2026-05",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "Microsoft：肯尼亚合作意向",
+          "https://news.microsoft.com/source/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/"
+        ],
+        [
+          "Tom’s Hardware：项目受阻",
+          "https://www.tomshardware.com/tech-industry/microsofts-1-billion-kenya-data-center-stalls-over-disagreements-on-power-capacity"
+        ]
+      ],
+      "verification": "2024 为建设意向；2026 报道项目因电力安排受阻，不能延用原预计时间宣称已运营。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "africa-southafrica-nigeria-mtn-cassava",
+      "name": "Cassava 南非 / 尼日利亚区域计划",
+      "company": "Cassava Technologies",
+      "companyTag": "Cassava",
+      "category": "科技巨头",
+      "region": "非洲地区",
+      "location": "南非约翰内斯堡 (Johannesburg) & 尼日利亚拉各斯 (Lagos)",
+      "lat": -26.2041,
+      "lng": 28.0473,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA（公司区域计划；单站型号未知）",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "原记录跨多个国家与主体，不能视为一个单站。官方资料支持 Cassava / NVIDIA 区域计划，未支持原 MTN / 华为混合归属。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA（公司区域计划；单站型号未知）",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Cassava：NVIDIA AI 工厂计划",
+            "https://www.cassavatechnologies.com/cassava-to-upgrade-its-data-centres-with-nvidia-supercomputers-to-drive-africas-ai-future/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "MTN & Cassava 泛非 AI 智算网络 (南非约翰内斯堡 / 尼日利亚拉各斯)",
+        "powerMW": "150 MW (南非 90MW + 尼日利亚 60MW)",
+        "investment": "$15亿+ (泛非联合银团授信)",
+        "gpuCount": "50,000+ (NVIDIA DGX SuperPOD 网络)",
+        "status": "construction",
+        "description": "非洲电信巨擘 MTN 集团联合中东/欧美财团投资 15 亿美元，协同 Cassava Technologies 与英伟达官方合作推进的跨国 AI 工厂网络。横跨撒哈拉以南非洲两大经济体——南非与尼日利亚，将数万张 NVIDIA GPU 算力带入非洲本土，赋能非洲移动支付、农业大模型及本国主权语言模型的落地。"
+      },
+      "evidence": {
+        "note": "原记录跨多个国家与主体，不能视为一个单站。官方资料支持 Cassava / NVIDIA 区域计划，未支持原 MTN / 华为混合归属。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Cassava：NVIDIA AI 工厂计划",
+            "url": "https://www.cassavatechnologies.com/cassava-to-upgrade-its-data-centres-with-nvidia-supercomputers-to-drive-africas-ai-future/",
+            "scope": "南非及埃及 / 肯尼亚 / 摩洛哥 / 尼日利亚扩展计划，不证明每站已投运",
+            "date": "2025-03",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Semafor：NVIDIA 投资 Cassava",
+            "url": "https://www.semafor.com/article/10/29/2025/nvidia-bets-on-zimbabwean-tech-firm-cassava",
+            "scope": "公司层面投资与区域计划；不是每站交付",
+            "date": "2025-10-29",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "Cassava：NVIDIA AI 工厂计划",
+          "https://www.cassavatechnologies.com/cassava-to-upgrade-its-data-centres-with-nvidia-supercomputers-to-drive-africas-ai-future/"
+        ],
+        [
+          "Semafor：NVIDIA 投资 Cassava",
+          "https://www.semafor.com/article/10/29/2025/nvidia-bets-on-zimbabwean-tech-firm-cassava"
+        ]
+      ],
+      "verification": "原记录跨多个国家与主体，不能视为一个单站。官方资料支持 Cassava / NVIDIA 区域计划，未支持原 MTN / 华为混合归属。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "africa-gabon-nkok-stdigital",
+      "name": "ST Digital 加蓬 Nkok 数据中心",
+      "company": "ST Digital",
+      "companyTag": "ST Digital",
+      "category": "新兴算力厂商",
+      "region": "非洲地区",
+      "location": "加蓬恩科经济特区 (Nkok Special Economic Zone, Gabon)",
+      "lat": 0.355,
+      "lng": 9.715,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "政府公告确认 Nkok 数据中心于 2026 年 7 月揭幕；未取得 AI 加速卡清单，不把通用数据中心当作已验证 GPU 集群。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "加蓬外交部：Nkok 揭幕",
+            "https://www.affaires-etrangeres.gouv.ga/9-actualites/3300-gabon-la-souverainete-numerique-du-gabon-materialisee-par-linauguration-du-premier-data-center/"
+          ],
+          [
+            "加蓬政府：建设介绍",
+            "https://gouvernement.ga/2026/06/16/inauguration-dun-data-center-le-30-juin-prochain-a-nkok-st-digital-presente-son-projet-phare-aux-medias/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "加蓬恩科特区绿色生态智算中心 (ST Digital & Cybastion)",
+        "powerMW": "30 MW (规划扩展至 50 MW)",
+        "investment": "$2.5亿",
+        "gpuCount": "8,000+ 专用高密度算力节点",
+        "status": "construction",
+        "description": "中非地区最具代表性的自主环保型高密度智算基地。由非洲本土领先的云服务商 ST Digital 联合美国技术企业 Cybastion 等机构投资建设，深度嵌入加蓬恩科绿色经济特区，利用低排放天然气高效发电，构建中非经济货币共同体（CEMAC）首个通过国际认证的低碳 Tier III 智算节点。"
+      },
+      "evidence": {
+        "note": "政府公告确认 Nkok 数据中心于 2026 年 7 月揭幕；未取得 AI 加速卡清单，不把通用数据中心当作已验证 GPU 集群。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "加蓬外交部：Nkok 揭幕",
+            "url": "https://www.affaires-etrangeres.gouv.ga/9-actualites/3300-gabon-la-souverainete-numerique-du-gabon-materialisee-par-linauguration-du-premier-data-center/",
+            "scope": "2026-07-03 开业、ST Digital 运营主体",
+            "date": "2026-07-06",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "加蓬政府：建设介绍",
+            "url": "https://gouvernement.ga/2026/06/16/inauguration-dun-data-center-le-30-juin-prochain-a-nkok-st-digital-presente-son-projet-phare-aux-medias/",
+            "scope": "建设背景；6 月预计日期被 7 月实际事件更新",
+            "date": "2026-06-16",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "加蓬外交部：Nkok 揭幕",
+          "https://www.affaires-etrangeres.gouv.ga/9-actualites/3300-gabon-la-souverainete-numerique-du-gabon-materialisee-par-linauguration-du-premier-data-center/"
+        ],
+        [
+          "加蓬政府：建设介绍",
+          "https://gouvernement.ga/2026/06/16/inauguration-dun-data-center-le-30-juin-prochain-a-nkok-st-digital-presente-son-projet-phare-aux-medias/"
+        ]
+      ],
+      "verification": "政府公告确认 Nkok 数据中心于 2026 年 7 月揭幕；未取得 AI 加速卡清单，不把通用数据中心当作已验证 GPU 集群。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "africa-egypt-morocco-huawei-cassava",
+      "name": "Cassava 埃及 / 摩洛哥区域计划",
+      "company": "Cassava Technologies",
+      "companyTag": "Cassava",
+      "category": "中国算力中枢",
+      "region": "非洲地区",
+      "location": "埃及新行政首都 (New Cairo) / 摩洛哥卡萨布兰卡",
+      "lat": 30.0131,
+      "lng": 31.4989,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "NVIDIA（公司区域计划；单站型号未知）",
+      "status": "unverified",
+      "statusText": "身份 / 状态待核实",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "原记录跨多个国家与主体，不能视为一个单站。官方资料支持 Cassava / NVIDIA 区域计划，未支持原 MTN / 华为混合归属。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "verification": "原记录跨多个国家与主体，不能视为一个单站。官方资料支持 Cassava / NVIDIA 区域计划，未支持原 MTN / 华为混合归属。",
+      "reviewedAt": "2026-11-02",
+      "chipEvidence": {
+        "level": "项目级 / 范围见证据",
+        "summary": "NVIDIA（公司区域计划；单站型号未知）",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Cassava：NVIDIA AI 工厂计划",
+            "https://www.cassavatechnologies.com/cassava-to-upgrade-its-data-centres-with-nvidia-supercomputers-to-drive-africas-ai-future/"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "北非泛地中海 AIDC 智算枢纽 (埃及新开罗 & 摩洛哥)",
+        "powerMW": "80 MW",
+        "investment": "$8亿+",
+        "gpuCount": "20,000+ (昇腾 AI 集群 + 异构算力池)",
+        "status": "operational",
+        "description": "连接非洲大陆与地中海、欧洲的超级算力桥头堡。华为在北非发布了新一代 AIDC 机房参考设计白皮书，并在埃及新首都正式开服面向全非的公有云与 AI 智算中心，配备昇腾 AI 集群与大模型开发框架，为阿拉伯语及北非地区数百所科研高校、金融与政企提供低延迟算力母港。"
+      },
+      "evidence": {
+        "note": "原记录跨多个国家与主体，不能视为一个单站。官方资料支持 Cassava / NVIDIA 区域计划，未支持原 MTN / 华为混合归属。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Cassava：NVIDIA AI 工厂计划",
+            "url": "https://www.cassavatechnologies.com/cassava-to-upgrade-its-data-centres-with-nvidia-supercomputers-to-drive-africas-ai-future/",
+            "scope": "南非及埃及 / 肯尼亚 / 摩洛哥 / 尼日利亚扩展计划，不证明每站已投运",
+            "date": "2025-03",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Semafor：NVIDIA 投资 Cassava",
+            "url": "https://www.semafor.com/article/10/29/2025/nvidia-bets-on-zimbabwean-tech-firm-cassava",
+            "scope": "公司层面投资与区域计划；不是每站交付",
+            "date": "2025-10-29",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "存在疑点 / 待核实"
+      },
+      "sources": [
+        [
+          "Cassava：NVIDIA AI 工厂计划",
+          "https://www.cassavatechnologies.com/cassava-to-upgrade-its-data-centres-with-nvidia-supercomputers-to-drive-africas-ai-future/"
+        ],
+        [
+          "Semafor：NVIDIA 投资 Cassava",
+          "https://www.semafor.com/article/10/29/2025/nvidia-bets-on-zimbabwean-tech-firm-cassava"
+        ]
+      ]
+    },
+    {
+      "id": "kazakhstan-astana-presight-ai",
+      "name": "哈萨克斯坦阿斯塔纳国家超级 AI 智算中心",
+      "company": "Presight / 哈萨克斯坦",
+      "companyTag": "Presight",
+      "category": "亚太算力枢纽",
+      "region": "中亚地区",
+      "location": "哈萨克斯坦阿斯塔纳 (Astana) / 阿拉木图",
+      "lat": 51.1694,
+      "lng": 71.4491,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "官方确认 2025 年国家超算启动，但不把国家超算与后续 Presight 数据处理中心、智慧城市项目混为一体。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Presight：哈萨克斯坦国家超算启动",
+            "https://www.presight.ai/news/kazakhstan-unveils-first-national-supercomputer-in-strategic-partnership-with-presight"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "哈萨克斯坦阿斯塔纳国家超级 AI 智算中心",
+        "powerMW": "100 MW (欧亚陆桥战略算力通道)",
+        "investment": "$5亿+",
+        "gpuCount": "25,000+ (异构加速算力集群)",
+        "status": "construction",
+        "description": "欧亚陆桥的心脏算力纽带！哈萨克斯坦正在全力推进打造中亚首个国家级人工智能超算中心。联合阿联酋 G42 旗下 Presight AI 及中企技术力量，哈萨克斯坦利用其欧亚交界独特地理位置、广袤草原极度廉价充沛的水风绿电，以及冬季天然极寒的极佳冷源优势，正在成为中亚数字化转型与连接东西方的数据算力枢纽。"
+      },
+      "evidence": {
+        "note": "官方确认 2025 年国家超算启动，但不把国家超算与后续 Presight 数据处理中心、智慧城市项目混为一体。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Presight：哈萨克斯坦国家超算启动",
+            "url": "https://www.presight.ai/news/kazakhstan-unveils-first-national-supercomputer-in-strategic-partnership-with-presight",
+            "scope": "2025-07-11 启动及合作主体",
+            "date": "2025-07-11",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "单一来源 / 待交叉验证"
+      },
+      "sources": [
+        [
+          "Presight：哈萨克斯坦国家超算启动",
+          "https://www.presight.ai/news/kazakhstan-unveils-first-national-supercomputer-in-strategic-partnership-with-presight"
+        ]
+      ],
+      "verification": "官方确认 2025 年国家超算启动，但不把国家超算与后续 Presight 数据处理中心、智慧城市项目混为一体。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "google-crusoe-goodnight-texas",
+      "name": "Google / Crusoe Armstrong County 园区",
+      "company": "Google (Alphabet) & Crusoe Energy",
+      "companyTag": "Google",
+      "category": "科技巨头",
+      "region": "北美洲",
+      "location": "美国得克萨斯州阿姆斯特朗县 (Armstrong County / Claude, Texas)",
+      "lat": 35.1106,
+      "lng": -101.3638,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "construction",
+      "statusText": "建设 / 扩建记录 · 最新进度见来源",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "Crusoe 确认 Google Armstrong County 园区在建。相邻风电场 265.5 MW 是发电装机，不是数据中心 IT 容量。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Crusoe：Armstrong County 项目",
+            "https://www.crusoe.ai/resources/newsroom/crusoe-developing-data-center-campus-in-armstrong-county-texas"
+          ],
+          [
+            "Crusoe：当地项目现场介绍",
+            "https://www.crusoe.ai/resources/blog/building-community-in-texas"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "Google & Crusoe Goodnight 吉瓦级 AI 超算基地 (Goodnight Campus)",
+        "powerMW": "1,000+ MW (1 GW 规划总容量)",
+        "investment": "$40亿+",
+        "gpuCount": "超 150,000+ 张 TPU v6 (Trillium) / Blackwell NVL72 集群",
+        "status": "construction",
+        "description": "谷歌与新兴算力巨头 Crusoe Energy 联手打造的‘吉瓦级’（GW-scale）下一代 AI 旗舰母港！项目位于得克萨斯州狭长地带（Panhandle）阿姆斯特朗县 Goodnight 地区，因毗邻著名的 Goodnight 大型风电场而得名。为突破美国公用电网数年排队接入的严重卡脖子难题，Crusoe 为谷歌量身定制了‘表后独立离网’供电架构——在现场自建 933 MW 燃气电厂与 531 MW 绿色风电深度互补，专门用于承载 Google DeepMind 新一代 Gemini 前沿多模态大模型的极端算力训练。"
+      },
+      "evidence": {
+        "note": "Crusoe 确认 Google Armstrong County 园区在建。相邻风电场 265.5 MW 是发电装机，不是数据中心 IT 容量。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "Crusoe：Armstrong County 项目",
+            "url": "https://www.crusoe.ai/resources/newsroom/crusoe-developing-data-center-campus-in-armstrong-county-texas",
+            "scope": "开发商、客户、2025 开工、风场连接",
+            "date": "2026-09-28",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "Crusoe：当地项目现场介绍",
+            "url": "https://www.crusoe.ai/resources/blog/building-community-in-texas",
+            "scope": "同一主体现场更新，不算独立第二信源",
+            "date": "2026-10",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "Crusoe：Armstrong County 项目",
+          "https://www.crusoe.ai/resources/newsroom/crusoe-developing-data-center-campus-in-armstrong-county-texas"
+        ],
+        [
+          "Crusoe：当地项目现场介绍",
+          "https://www.crusoe.ai/resources/blog/building-community-in-texas"
+        ]
+      ],
+      "verification": "Crusoe 确认 Google Armstrong County 园区在建。相邻风电场 265.5 MW 是发电装机，不是数据中心 IT 容量。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "anthropic-australia-queensland-zerra",
+      "name": "Anthropic / Zerra Western Downs 规划项目",
+      "company": "Anthropic (Claude) & Zerra DC",
+      "companyTag": "Anthropic",
+      "category": "AI大模型独角兽",
+      "region": "亚太地区",
+      "location": "澳大利亚昆士兰州西唐斯达尔比 (Dalby, Western Downs, Queensland)",
+      "lat": -27.1819,
+      "lng": 151.2625,
+      "investment": "单站投资未核实",
+      "powerMW": "未核实 / 未披露",
+      "gpuCount": "基地级芯片型号、数量及占比未核实",
+      "status": "planned",
+      "statusText": "规划记录 · 非已投运",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "报道确认 Western Downs 项目首期租赁；审批、租约和建成不同。媒体对最终容量有不同范围，暂不采单一总量。",
+      "videoUrl": "",
+      "videoTitle": "",
+      "images": [],
+      "timeline": [],
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "基地级芯片型号、数量及占比未核实",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": []
+      },
+      "originalRecord": {
+        "name": "Anthropic 澳大利亚昆士兰 2.16 GW 超级智算园区 (Western Downs)",
+        "powerMW": "2,160 MW (2.16 GW 规划总容量)",
+        "investment": "50亿+ 澳元 (~$35亿美元)",
+        "gpuCount": "超 250,000+ 张新一代加速芯片 (Claude 训练与亚太推理枢纽)",
+        "status": "planned",
+        "description": "全球顶尖大模型独角兽 Anthropic（Claude 研发母公司）在亚太以及全球最宏大的实体超算基础设施布局！Anthropic 已正式签署长期租赁协议，入驻由新加坡开发商 Zerra DC 打造的昆士兰西唐斯数字公园，该基地规划总电力容量高达惊人的 2.16 GW（2,160 MW），是南半球规模最大的吉瓦级 AI 工厂之一。依托昆士兰州极其充沛的阳光光伏绿电，该中心将作为未来 Claude 4 / Claude Next 前沿模型的南半球训练母港，并与澳大利亚联邦政府国家 AI 安全学会（AI Safety Institute）深度协同，打造全球最高的安全主权智算标杆。"
+      },
+      "evidence": {
+        "note": "报道确认 Western Downs 项目首期租赁；审批、租约和建成不同。媒体对最终容量有不同范围，暂不采单一总量。",
+        "sources": [
+          {
+            "type": "新闻 / 独立报道",
+            "title": "ABC：Western Downs 项目调查",
+            "url": "https://www.abc.net.au/news/2026-09-18/queensland-data-centre-ai-anthropic-explainer/107163376",
+            "scope": "Kogan 位置与开发商方案",
+            "date": "2026-09-18",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "IPE Real Assets：项目合作与租赁",
+            "url": "https://realassets.ipe.com/news/macquarie-partners-with-zerra-and-adc-to-build-australias-largest-data-centre-campus-for-anthropic/10138513.article",
+            "scope": "援引 Dexus 披露的首期租赁；容量待原始公告核对",
+            "date": "2026-09-17",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "sources": [
+        [
+          "ABC：Western Downs 项目调查",
+          "https://www.abc.net.au/news/2026-09-18/queensland-data-centre-ai-anthropic-explainer/107163376"
+        ],
+        [
+          "IPE Real Assets：项目合作与租赁",
+          "https://realassets.ipe.com/news/macquarie-partners-with-zerra-and-adc-to-build-australias-largest-data-centre-campus-for-anthropic/10138513.article"
+        ]
+      ],
+      "verification": "报道确认 Western Downs 项目首期租赁；审批、租约和建成不同。媒体对最终容量有不同范围，暂不采单一总量。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "tencent-guian-qixing",
+      "name": "腾讯贵安七星数据中心",
+      "company": "腾讯",
+      "companyTag": "腾讯",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "贵州贵安新区（区域级示意点，非机房精确坐标）",
+      "lat": 26.4,
+      "lng": 106.49,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "腾讯独立数据中心，采用洞库与 T-Block 等建设方式。与华为七星湖不是同一项目。供应商案例确认园区存在，未公开可用于本地图的 AI 芯片占比。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "维谛技术：腾讯贵安七星项目案例",
+          "https://www.vertiv.com/4a2486/globalassets/documents/case-studies/tencent_t-block_case_study_310822_0.pdf"
+        ],
+        [
+          "腾讯：碳中和路线报告",
+          "https://www.tencent.com/attachments/carbon-neutrality/tencent-carbon-neutrality-report.pdf"
+        ],
+        [
+          "中央网信办：贵安数据中心布局",
+          "https://www.cac.gov.cn/2026-09/01/c_1790012378081831.htm"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "维谛技术：腾讯贵安七星项目案例",
+            "https://www.vertiv.com/4a2486/globalassets/documents/case-studies/tencent_t-block_case_study_310822_0.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "腾讯贵安七星数据中心",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "腾讯独立数据中心，采用洞库与 T-Block 等建设方式。与华为七星湖不是同一项目。供应商案例确认园区存在，未公开可用于本地图的 AI 芯片占比。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "维谛技术：腾讯贵安七星项目案例",
+            "url": "https://www.vertiv.com/4a2486/globalassets/documents/case-studies/tencent_t-block_case_study_310822_0.pdf",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯：碳中和路线报告",
+            "url": "https://www.tencent.com/attachments/carbon-neutrality/tencent-carbon-neutrality-report.pdf",
+            "scope": "腾讯贵安七星洞库式项目背景",
+            "date": "2022",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "中央网信办：贵安数据中心布局",
+            "url": "https://www.cac.gov.cn/2026-09/01/c_1790012378081831.htm",
+            "scope": "第三方政府报道确认腾讯七星与华为各自布局",
+            "date": "2026-09-01",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "tencent-qingyuan",
+      "name": "腾讯清远数据中心布局（清新／清城）",
+      "company": "腾讯",
+      "companyTag": "腾讯",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "广东清远（区域级示意点，非机房精确坐标）",
+      "lat": 23.68,
+      "lng": 113.03,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "官方接入点分别列出清新与清城数据中心；此条为区域汇总，不将两座园区重复计为一个已知 MW 数值。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "腾讯云官方专线接入点",
+          "https://intl.cloud.tencent.com/zh/document/product/216/41429"
+        ],
+        [
+          "澎湃：清远数据中心探访",
+          "https://www.thepaper.cn/newsDetail_forward_10625045"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "腾讯云官方专线接入点",
+            "https://intl.cloud.tencent.com/zh/document/product/216/41429"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "腾讯清远数据中心布局（清新／清城）",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "官方接入点分别列出清新与清城数据中心；此条为区域汇总，不将两座园区重复计为一个已知 MW 数值。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯云官方专线接入点",
+            "url": "https://intl.cloud.tencent.com/zh/document/product/216/41429",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "澎湃：清远数据中心探访",
+            "url": "https://www.thepaper.cn/newsDetail_forward_10625045",
+            "scope": "清远现场报道，与官方接入点交叉核对",
+            "date": "2021-01",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "tencent-yizheng",
+      "name": "腾讯仪征东升云计算数据中心",
+      "company": "腾讯",
+      "companyTag": "腾讯",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "江苏仪征经济开发区（区域级示意点，非机房精确坐标）",
+      "lat": 32.27,
+      "lng": 119.18,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "腾讯官方接入点列有仪征东升园区。已运营云基础设施与具体 AI 集群规模分开记录。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "腾讯云官方专线接入点",
+          "https://intl.cloud.tencent.com/zh/document/product/216/41429"
+        ],
+        [
+          "腾讯：ESG 报告",
+          "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "腾讯云官方专线接入点",
+            "https://intl.cloud.tencent.com/zh/document/product/216/41429"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "腾讯仪征东升云计算数据中心",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "腾讯官方接入点列有仪征东升园区。已运营云基础设施与具体 AI 集群规模分开记录。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯云官方专线接入点",
+            "url": "https://intl.cloud.tencent.com/zh/document/product/216/41429",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯：ESG 报告",
+            "url": "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf",
+            "scope": "仪征东升绿色数据中心；与接入点文档同一主体",
+            "date": "2022-04",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "tencent-huailai",
+      "name": "腾讯怀来东园数据中心",
+      "company": "腾讯",
+      "companyTag": "腾讯",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "河北怀来（区域级示意点，非机房精确坐标）",
+      "lat": 40.4,
+      "lng": 115.52,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "腾讯 ESG 报告列示怀来东园绿色数据中心。可确认华北布局，不能从园区存在推定 GPU 数量。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "腾讯 ESG：数据中心布局",
+          "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf"
+        ],
+        [
+          "腾讯：怀来东园微电网",
+          "https://www.tencent.com/index.php/zh-cn/articles/2202029.html"
+        ],
+        [
+          "人民网：腾讯怀来布局",
+          "https://finance.people.com.cn/n1/2018/0822/c1004-30244741.html"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "腾讯 ESG：数据中心布局",
+            "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "腾讯怀来东园数据中心",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "腾讯 ESG 报告列示怀来东园绿色数据中心。可确认华北布局，不能从园区存在推定 GPU 数量。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯 ESG：数据中心布局",
+            "url": "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯：怀来东园微电网",
+            "url": "https://www.tencent.com/index.php/zh-cn/articles/2202029.html",
+            "scope": "园区微电网已并网；不把发电装机当作 IT 容量",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "人民网：腾讯怀来布局",
+            "url": "https://finance.people.com.cn/n1/2018/0822/c1004-30244741.html",
+            "scope": "2018 年签约背景，非全部计划按时交付的证明",
+            "date": "2018-08-22",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "tencent-tianjin",
+      "name": "腾讯天津数据中心",
+      "company": "腾讯",
+      "companyTag": "腾讯",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "天津（区域级示意点，非机房精确坐标）",
+      "lat": 39.12,
+      "lng": 117.2,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "腾讯 ESG 报告披露天津数据中心 4 号楼认证信息。当前记录只确认园区，AI 加速器配置未公开核实。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "腾讯 ESG：数据中心布局",
+          "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf"
+        ],
+        [
+          "腾讯：2023 可持续社会价值报告",
+          "https://static.www.tencent.com/attachments/ssv/2023/tencent-ssv-report-2023.pdf"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "腾讯 ESG：数据中心布局",
+            "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "腾讯天津数据中心",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "腾讯 ESG 报告披露天津数据中心 4 号楼认证信息。当前记录只确认园区，AI 加速器配置未公开核实。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯 ESG：数据中心布局",
+            "url": "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯：2023 可持续社会价值报告",
+            "url": "https://static.www.tencent.com/attachments/ssv/2023/tencent-ssv-report-2023.pdf",
+            "scope": "天津高新光伏并网；确认园区存在，不给出 GPU 配置",
+            "date": "2024",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "tencent-shanghai",
+      "name": "腾讯上海青浦数据中心",
+      "company": "腾讯",
+      "companyTag": "腾讯",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "上海青浦（区域级示意点，非机房精确坐标）",
+      "lat": 31.15,
+      "lng": 121.12,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "腾讯可持续社会价值报告列有上海青浦园区储能规划，确认其华东布局。园区状态与 AI 芯片容量不混为一谈。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "腾讯 2021 可持续社会价值报告",
+          "https://static.www.tencent.com/attachments/ssv/2021/TencentSSVReport2021.pdf"
+        ],
+        [
+          "腾讯：2023 可持续社会价值报告",
+          "https://static.www.tencent.com/attachments/ssv/2023/tencent-ssv-report-2023.pdf"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "腾讯 2021 可持续社会价值报告",
+            "https://static.www.tencent.com/attachments/ssv/2021/TencentSSVReport2021.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "腾讯上海青浦数据中心",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "腾讯可持续社会价值报告列有上海青浦园区储能规划，确认其华东布局。园区状态与 AI 芯片容量不混为一谈。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯 2021 可持续社会价值报告",
+            "url": "https://static.www.tencent.com/attachments/ssv/2021/TencentSSVReport2021.pdf",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯：2023 可持续社会价值报告",
+            "url": "https://static.www.tencent.com/attachments/ssv/2023/tencent-ssv-report-2023.pdf",
+            "scope": "青浦光伏并网；可交叉核对早期园区记录",
+            "date": "2024",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "tencent-chongqing",
+      "name": "腾讯重庆数据中心",
+      "company": "腾讯",
+      "companyTag": "腾讯",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "重庆（区域级示意点，非机房精确坐标）",
+      "lat": 29.56,
+      "lng": 106.55,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "腾讯 ESG 报告列示重庆数据中心的绿色能源布局；该条为城市级位置，AI 专属容量未披露。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "腾讯 ESG：数据中心布局",
+          "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf"
+        ],
+        [
+          "重庆大数据局：人大建议答复",
+          "https://dsjj.cq.gov.cn/zwgk_533/jyta/202406/t20240618_13302991.html"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "腾讯 ESG：数据中心布局",
+            "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "腾讯重庆数据中心",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "腾讯 ESG 报告列示重庆数据中心的绿色能源布局；该条为城市级位置，AI 专属容量未披露。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "腾讯 ESG：数据中心布局",
+            "url": "https://static.www.tencent.com/uploads/2022/04/16/56e61654efa69f7503f997520a8f2766.pdf",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "重庆大数据局：人大建议答复",
+            "url": "https://dsjj.cq.gov.cn/zwgk_533/jyta/202406/t20240618_13302991.html",
+            "scope": "重庆腾讯云布局；市级机架统计不归属腾讯单站",
+            "date": "2024-06-18",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "alibaba-zhangbei",
+      "name": "阿里云张北数据中心（庙滩）",
+      "company": "阿里巴巴 / 阿里云",
+      "companyTag": "阿里云",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "河北张家口张北（区域级示意点，非机房精确坐标）",
+      "lat": 41.15,
+      "lng": 114.7,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "工信部国家绿色数据中心案例确认张北庙滩园区。属于阿里云华北基础设施；不将通用服务器规模转换为 GPU 或 MW。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "工信部：张北庙滩数据中心",
+          "https://www.miit.gov.cn/jgsj/jns/nyjy/art/2021/art_8226a3a538384d63be03447b2a3081a7.html"
+        ],
+        [
+          "Uptime：Alibaba 客户认证项目",
+          "https://zh.uptimeinstitute.com/uptime-institute-awards/list/client/alibaba-group-inc-/752"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "工信部：张北庙滩数据中心",
+            "https://www.miit.gov.cn/jgsj/jns/nyjy/art/2021/art_8226a3a538384d63be03447b2a3081a7.html"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "阿里云张北数据中心（庙滩）",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "工信部国家绿色数据中心案例确认张北庙滩园区。属于阿里云华北基础设施；不将通用服务器规模转换为 GPU 或 MW。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "政府 / 官方",
+            "title": "工信部：张北庙滩数据中心",
+            "url": "https://www.miit.gov.cn/jgsj/jns/nyjy/art/2021/art_8226a3a538384d63be03447b2a3081a7.html",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "第三方认证",
+            "title": "Uptime：Alibaba 客户认证项目",
+            "url": "https://zh.uptimeinstitute.com/uptime-institute-awards/list/client/alibaba-group-inc-/752",
+            "scope": "张北庙滩、乌兰察布、河源建筑认证；不证明 GPU 清单",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "alibaba-ulanqab",
+      "name": "阿里云乌兰察布园区／灵骏智算地域",
+      "company": "阿里巴巴 / 阿里云",
+      "companyTag": "阿里云",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "内蒙古乌兰察布白海子镇（区域级示意点，非机房精确坐标）",
+      "lat": 40.95,
+      "lng": 113.16,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "PPU 810E：产品地域级披露；园区数量与占比未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "阿里云官方园区接入点确认白海子镇阿里巴巴园区；PAI 文档以乌兰察布举例说明 PPU 资源使用。产品地域的芯片供给，不等于园区所有机房的统一配置。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "阿里云：园区接入点",
+          "https://help.aliyun.com/zh/ena/product-overview/edge-network-acceleration-endpoint-list"
+        ],
+        [
+          "阿里云：乌兰察布 PPU / 灵骏资源",
+          "https://help.aliyun.com/zh/pai/untitled-document-1734413599038"
+        ],
+        [
+          "Uptime：Alibaba 客户认证项目",
+          "https://zh.uptimeinstitute.com/uptime-institute-awards/list/client/alibaba-group-inc-/752"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区与智算地域已核实；单园区芯片配比未知",
+      "chipEvidence": {
+        "level": "产品地域级证据",
+        "summary": "平头哥 / PPU 810E",
+        "note": "PAI 文档以乌兰察布地域举例；不代表该园区全部机房采用此芯片。数量及比例未披露。",
+        "sources": [
+          [
+            "阿里云：乌兰察布 PPU / 灵骏资源",
+            "https://help.aliyun.com/zh/pai/untitled-document-1734413599038"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "阿里云乌兰察布园区／灵骏智算地域",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "PPU 810E：产品地域级披露；园区数量与占比未披露",
+        "status": "operational",
+        "description": "阿里云官方园区接入点确认白海子镇阿里巴巴园区；PAI 文档以乌兰察布举例说明 PPU 资源使用。产品地域的芯片供给，不等于园区所有机房的统一配置。"
+      },
+      "evidence": {
+        "note": "园区与智算地域已核实；单园区芯片配比未知",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "阿里云：园区接入点",
+            "url": "https://help.aliyun.com/zh/ena/product-overview/edge-network-acceleration-endpoint-list",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "阿里云：乌兰察布 PPU / 灵骏资源",
+            "url": "https://help.aliyun.com/zh/pai/untitled-document-1734413599038",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "第三方认证",
+            "title": "Uptime：Alibaba 客户认证项目",
+            "url": "https://zh.uptimeinstitute.com/uptime-institute-awards/list/client/alibaba-group-inc-/752",
+            "scope": "张北庙滩、乌兰察布、河源建筑认证；不证明 GPU 清单",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "alibaba-hangzhou-renhe",
+      "name": "阿里云杭州仁和数据中心",
+      "company": "阿里巴巴 / 阿里云",
+      "companyTag": "阿里云",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "浙江杭州仁和（区域级示意点，非机房精确坐标）",
+      "lat": 30.44,
+      "lng": 120.09,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "阿里云官方文档列示杭州余杭仁和阿里机房。确认物理园区布局，不据此断言通义模型的具体训练机房。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "阿里云：园区接入点",
+          "https://help.aliyun.com/zh/ena/product-overview/edge-network-acceleration-endpoint-list"
+        ],
+        [
+          "港交所：阿里健康 ESG 报告",
+          "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0705/2022070501287.pdf"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "阿里云：园区接入点",
+            "https://help.aliyun.com/zh/ena/product-overview/edge-network-acceleration-endpoint-list"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "阿里云杭州仁和数据中心",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "阿里云官方文档列示杭州余杭仁和阿里机房。确认物理园区布局，不据此断言通义模型的具体训练机房。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "阿里云：园区接入点",
+            "url": "https://help.aliyun.com/zh/ena/product-overview/edge-network-acceleration-endpoint-list",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "港交所：阿里健康 ESG 报告",
+            "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0705/2022070501287.pdf",
+            "scope": "仁和数据中心液冷背景；非芯片数量证明",
+            "date": "2022-07-05",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "alibaba-heyuan",
+      "name": "阿里云河源数据中心布局",
+      "company": "阿里巴巴 / 阿里云",
+      "companyTag": "阿里云",
+      "category": "科技巨头",
+      "region": "大中华区",
+      "location": "广东河源（区域级示意点，非机房精确坐标）",
+      "lat": 23.74,
+      "lng": 114.7,
+      "investment": "未披露",
+      "powerMW": "未披露",
+      "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+      "status": "operational",
+      "statusText": "有运营记录 · 规模见来源",
+      "cooling": "园区级方案未在本轮核实",
+      "powerSource": "园区级能源比例未在本轮核实",
+      "footprint": "已核实云数据中心；不等同于全部为 AI 专属集群",
+      "description": "河源市源城区公布一期数据中心竣工验收备案；区域内另有江东新区项目，地图以河源区域汇总展示。AI 芯片型号与容量不按园区总规模推算。",
+      "videoUrl": "",
+      "images": [],
+      "timeline": [],
+      "sources": [
+        [
+          "河源源城区：一期竣工验收",
+          "https://www.gdyc.gov.cn/hyyczjj/gkmlpt/content/0/411/post_411816.html"
+        ],
+        [
+          "河源江东新区：改扩建批复",
+          "https://www.hyjdxq.gov.cn/zdlyxxgk/hjbhxxgk/content/post_639694.html"
+        ],
+        [
+          "Uptime：Alibaba 客户认证项目",
+          "https://zh.uptimeinstitute.com/uptime-institute-awards/list/client/alibaba-group-inc-/752"
+        ]
+      ],
+      "reviewedAt": "2026-11-02",
+      "verification": "园区存在已核实；AI 专属配置未披露",
+      "chipEvidence": {
+        "level": "基地级未披露",
+        "summary": "型号、数量、占比未披露",
+        "note": "已确认云数据中心布局，但未取得可归属该园区的 AI 芯片清单。",
+        "sources": [
+          [
+            "河源源城区：一期竣工验收",
+            "https://www.gdyc.gov.cn/hyyczjj/gkmlpt/content/0/411/post_411816.html"
+          ],
+          [
+            "河源江东新区：改扩建批复",
+            "https://www.hyjdxq.gov.cn/zdlyxxgk/hjbhxxgk/content/post_639694.html"
+          ]
+        ]
+      },
+      "originalRecord": {
+        "name": "阿里云河源数据中心布局",
+        "powerMW": "未披露",
+        "investment": "未披露",
+        "gpuCount": "园区级 AI 芯片型号、数量及比例未披露",
+        "status": "operational",
+        "description": "河源市源城区公布一期数据中心竣工验收备案；区域内另有江东新区项目，地图以河源区域汇总展示。AI 芯片型号与容量不按园区总规模推算。"
+      },
+      "evidence": {
+        "note": "园区存在已核实；AI 专属配置未披露",
+        "sources": [
+          {
+            "type": "政府 / 官方",
+            "title": "河源源城区：一期竣工验收",
+            "url": "https://www.gdyc.gov.cn/hyyczjj/gkmlpt/content/0/411/post_411816.html",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "政府 / 官方",
+            "title": "河源江东新区：改扩建批复",
+            "url": "https://www.hyjdxq.gov.cn/zdlyxxgk/hjbhxxgk/content/post_639694.html",
+            "scope": "仅确认原布局说明所列字段；不确认 MW、GPU 数量和配比",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "第三方认证",
+            "title": "Uptime：Alibaba 客户认证项目",
+            "url": "https://zh.uptimeinstitute.com/uptime-institute-awards/list/client/alibaba-group-inc-/752",
+            "scope": "张北庙滩、乌兰察布、河源建筑认证；不证明 GPU 清单",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "园区布局有来源 / AI 配置未知"
+      }
+    },
+    {
+      "id": "dayone-malaysia-nusajaya",
+      "name": "DayOne Nusajaya 马来西亚园区",
+      "company": "DayOne",
+      "companyTag": "DayOne",
+      "category": "新兴算力厂商",
+      "region": "亚太地区",
+      "location": "马来西亚柔佛 Nusajaya（区域示意）",
+      "lat": 1.43,
+      "lng": 103.62,
+      "status": "operational",
+      "images": [],
+      "videoUrl": "",
+      "timeline": [],
+      "originalRecord": {
+        "name": "DayOne Nusajaya 马来西亚园区",
+        "status": "operational"
+      },
+      "powerMW": "官方单站容量未披露；Epoch 估算 473 MW（不计入汇总）",
+      "investment": "单站投资未核实",
+      "gpuCount": "NVIDIA H100 / B300（Epoch 估算）；约 58.4 万 H100e，非 GPU 张数",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "DayOne 官方确认园区身份。Epoch 估计约 58.4 万 H100e、473 MW IT 功率，芯片估计为 NVIDIA H100 / B300；这些是影像和模型推算，并非官方交付清单。H100e 为算力等效单位，不是实体 GPU 数量。截图中前十排名属于特定日期的估算榜单，未独立复现 10 月 31 日完整历史排名。字节跳动是媒体报道的集团最大客户，不等于该园区全部设备属于字节跳动。",
+      "computeEstimate": {
+        "h100e": 584000,
+        "itMW": 473,
+        "asOf": "2026-10-02",
+        "source": "Epoch AI",
+        "method": "模型估算",
+        "includeInOfficialTotals": false
+      },
+      "evidence": {
+        "note": "DayOne 官方确认园区身份。Epoch 估计约 58.4 万 H100e、473 MW IT 功率，芯片估计为 NVIDIA H100 / B300；这些是影像和模型推算，并非官方交付清单。H100e 为算力等效单位，不是实体 GPU 数量。截图中前十排名属于特定日期的估算榜单，未独立复现 10 月 31 日完整历史排名。字节跳动是媒体报道的集团最大客户，不等于该园区全部设备属于字节跳动。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "DayOne：园区发展历程",
+            "url": "https://dayonedc.com/about-us",
+            "scope": "Nusajaya 2023 年启动，Kempas 2024 年开发；官方园区身份",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "研究 / 模型估算",
+            "title": "Epoch AI：Nusajaya 项目估算",
+            "url": "https://epoch.ai/data/ai-data-centers/directory/dayone-nusajaya",
+            "scope": "算力、IT 功率与芯片均为估计；运营进度部分由卫星影像和工期假设推断",
+            "date": "2026-10-02",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "DayOne：SEC F-1 招股书",
+            "url": "https://www.sec.gov/Archives/edgar/data/2118192/000119312526414188/d223752df1.htm",
+            "scope": "最大客户未具名；2025 收入占比 69.4%，2026 上半年 69.2%。集团口径，不是单园区归属",
+            "date": "2026-10-05",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Bloomberg：DayOne 最大客户为字节跳动",
+            "url": "https://news.bloomberglaw.com/capital-markets/oracle-said-to-move-ahead-with-cloud-services-plan-in-indonesia",
+            "scope": "媒体识别集团最大客户；不证明两个园区全部 GPU 归属字节跳动",
+            "date": "2025-07-11",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "chipEvidence": {
+        "level": "研究模型估算 / 非官方清单",
+        "summary": "NVIDIA H100 / B300（Epoch 估算）；约 58.4 万 H100e，非 GPU 张数",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Epoch AI：Nusajaya 项目估算",
+            "https://epoch.ai/data/ai-data-centers/directory/dayone-nusajaya"
+          ]
+        ]
+      },
+      "statusText": "有运营记录 · 规模见来源",
+      "sources": [
+        [
+          "DayOne：园区发展历程",
+          "https://dayonedc.com/about-us"
+        ],
+        [
+          "Epoch AI：Nusajaya 项目估算",
+          "https://epoch.ai/data/ai-data-centers/directory/dayone-nusajaya"
+        ],
+        [
+          "DayOne：SEC F-1 招股书",
+          "https://www.sec.gov/Archives/edgar/data/2118192/000119312526414188/d223752df1.htm"
+        ],
+        [
+          "Bloomberg：DayOne 最大客户为字节跳动",
+          "https://news.bloomberglaw.com/capital-markets/oracle-said-to-move-ahead-with-cloud-services-plan-in-indonesia"
+        ]
+      ],
+      "verification": "DayOne 官方确认园区身份。Epoch 估计约 58.4 万 H100e、473 MW IT 功率，芯片估计为 NVIDIA H100 / B300；这些是影像和模型推算，并非官方交付清单。H100e 为算力等效单位，不是实体 GPU 数量。截图中前十排名属于特定日期的估算榜单，未独立复现 10 月 31 日完整历史排名。字节跳动是媒体报道的集团最大客户，不等于该园区全部设备属于字节跳动。",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "id": "dayone-malaysia-kempas",
+      "name": "DayOne Kempas 马来西亚园区",
+      "company": "DayOne",
+      "companyTag": "DayOne",
+      "category": "新兴算力厂商",
+      "region": "亚太地区",
+      "location": "马来西亚柔佛 Kempas（区域示意）",
+      "lat": 1.55,
+      "lng": 103.7,
+      "status": "operational",
+      "images": [],
+      "videoUrl": "",
+      "timeline": [],
+      "originalRecord": {
+        "name": "DayOne Kempas 马来西亚园区",
+        "status": "operational"
+      },
+      "powerMW": "官方单站容量未披露；Epoch 估算 422 MW（不计入汇总）",
+      "investment": "单站投资未核实",
+      "gpuCount": "NVIDIA B300（Epoch 估算）；约 48.1 万 H100e，非 GPU 张数",
+      "cooling": "见项目来源；未核实原记录的工程参数",
+      "powerSource": "见项目来源；未核实原记录的能源比例",
+      "footprint": "地图为区域示意位置；不用于机房导航",
+      "description": "DayOne 官方确认园区身份。Epoch 估计约 48.1 万 H100e、422 MW IT 功率，芯片估计为 NVIDIA B300；这些是影像和模型推算，并非官方交付清单。H100e 为算力等效单位，不是实体 GPU 数量。截图中前十排名属于特定日期的估算榜单，未独立复现 10 月 31 日完整历史排名。字节跳动是媒体报道的集团最大客户，不等于该园区全部设备属于字节跳动。",
+      "computeEstimate": {
+        "h100e": 481000,
+        "itMW": 422,
+        "asOf": "2026-10-01",
+        "source": "Epoch AI",
+        "method": "模型估算",
+        "includeInOfficialTotals": false
+      },
+      "evidence": {
+        "note": "DayOne 官方确认园区身份。Epoch 估计约 48.1 万 H100e、422 MW IT 功率，芯片估计为 NVIDIA B300；这些是影像和模型推算，并非官方交付清单。H100e 为算力等效单位，不是实体 GPU 数量。截图中前十排名属于特定日期的估算榜单，未独立复现 10 月 31 日完整历史排名。字节跳动是媒体报道的集团最大客户，不等于该园区全部设备属于字节跳动。",
+        "sources": [
+          {
+            "type": "官方 / 项目",
+            "title": "DayOne：园区发展历程",
+            "url": "https://dayonedc.com/about-us",
+            "scope": "Nusajaya 2023 年启动，Kempas 2024 年开发；官方园区身份",
+            "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "研究 / 模型估算",
+            "title": "Epoch AI：Kempas 项目估算",
+            "url": "https://epoch.ai/data/ai-data-centers/directory/dayone-kempas",
+            "scope": "算力、IT 功率与芯片均为估计；运营进度部分由卫星影像和工期假设推断",
+            "date": "2026-10-01",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "官方 / 项目",
+            "title": "DayOne：SEC F-1 招股书",
+            "url": "https://www.sec.gov/Archives/edgar/data/2118192/000119312526414188/d223752df1.htm",
+            "scope": "最大客户未具名；2025 收入占比 69.4%，2026 上半年 69.2%。集团口径，不是单园区归属",
+            "date": "2026-10-05",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "新闻 / 独立报道",
+            "title": "Bloomberg：DayOne 最大客户为字节跳动",
+            "url": "https://news.bloomberglaw.com/capital-markets/oracle-said-to-move-ahead-with-cloud-services-plan-in-indonesia",
+            "scope": "媒体识别集团最大客户；不证明两个园区全部 GPU 归属字节跳动",
+            "date": "2025-07-11",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          }
+        ],
+        "checked": "2026-11-02",
+        "level": "多份资料 / 独立性见说明"
+      },
+      "chipEvidence": {
+        "level": "研究模型估算 / 非官方清单",
+        "summary": "NVIDIA B300（Epoch 估算）；约 48.1 万 H100e，非 GPU 张数",
+        "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
+        "sources": [
+          [
+            "Epoch AI：Kempas 项目估算",
+            "https://epoch.ai/data/ai-data-centers/directory/dayone-kempas"
+          ]
+        ]
+      },
+      "statusText": "有运营记录 · 规模见来源",
+      "sources": [
+        [
+          "DayOne：园区发展历程",
+          "https://dayonedc.com/about-us"
+        ],
+        [
+          "Epoch AI：Kempas 项目估算",
+          "https://epoch.ai/data/ai-data-centers/directory/dayone-kempas"
+        ],
+        [
+          "DayOne：SEC F-1 招股书",
+          "https://www.sec.gov/Archives/edgar/data/2118192/000119312526414188/d223752df1.htm"
+        ],
+        [
+          "Bloomberg：DayOne 最大客户为字节跳动",
+          "https://news.bloomberglaw.com/capital-markets/oracle-said-to-move-ahead-with-cloud-services-plan-in-indonesia"
+        ]
+      ],
+      "verification": "DayOne 官方确认园区身份。Epoch 估计约 48.1 万 H100e、422 MW IT 功率，芯片估计为 NVIDIA B300；这些是影像和模型推算，并非官方交付清单。H100e 为算力等效单位，不是实体 GPU 数量。截图中前十排名属于特定日期的估算榜单，未独立复现 10 月 31 日完整历史排名。字节跳动是媒体报道的集团最大客户，不等于该园区全部设备属于字节跳动。",
+      "reviewedAt": "2026-11-02"
+    }
+  ]
+}

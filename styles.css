@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --bg-main: #f8fafc;
+  --bg-card: rgba(255, 255, 255, 0.92);
+  --border-color: #e2e8f0;
+  --border-hover: #cbd5e1;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #64748b;
+  --accent-blue: #0284c7;
+  --accent-orange: #ea580c;
+  --accent-green: #16a34a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  overflow: hidden;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* 白底毛玻璃与软阴影面板 */
+.glass-panel {
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.08), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
+}
+
+/* 地图自定义样式 */
+#map {
+  width: 100%;
+  height: 100%;
+  background: #f1f5f9;
+}
+
+.leaflet-container {
+  background: #f1f5f9 !important;
+}
+
+.leaflet-bar {
+  border: 1px solid #cbd5e1 !important;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08) !important;
+  background: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(8px);
+  border-radius: 8px !important;
+  overflow: hidden;
+}
+
+.leaflet-bar a {
+  background-color: #ffffff !important;
+  color: #334155 !important;
+  border-bottom: 1px solid #e2e8f0 !important;
+}
+
+.leaflet-bar a:hover {
+  background-color: #f8fafc !important;
+  color: #0284c7 !important;
+}
+
+/* 白底环境下的雷达脉冲点位 (高对比度) */
+.radar-marker {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.radar-marker-core {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border: 2px solid #ffffff;
+  z-index: 2;
+  transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.radar-marker:hover .radar-marker-core {
+  transform: scale(1.4);
+}
+
+.radar-marker-pulse {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 2px solid currentColor;
+  opacity: 0.75;
+  animation: pulse-ring 2.4s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+  z-index: 1;
+}
+
+.radar-marker-pulse-delay {
+  animation-delay: 1.2s;
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.4);
+    opacity: 0.9;
+  }
+  80%, 100% {
+    transform: scale(2.8);
+    opacity: 0;
+  }
+}
+
+/* ================= 地图常驻公司与算力中心名称标签 (Permanent Map Label) ================= */
+.leaflet-tooltip.map-company-label,
+.leaflet-tooltip.company-permanent-label {
+  background: rgba(255, 255, 255, 0.95) !important;
+  border: 1px solid #cbd5e1 !important;
+  border-radius: 9999px !important;
+  padding: 2px 8px !important;
+  box-shadow: 0 4px 12px -2px rgba(15, 23, 42, 0.15) !important;
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  color: #0f172a !important;
+  white-space: nowrap !important;
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.leaflet-tooltip.map-company-label::before,
+.leaflet-tooltip.company-permanent-label::before {
+  border-top-color: #cbd5e1 !important;
+}
+
+.leaflet-tooltip.map-company-label:hover,
+.leaflet-tooltip.company-permanent-label:hover {
+  transform: translateY(-2px) scale(1.05) !important;
+  border-color: #0284c7 !important;
+  box-shadow: 0 6px 16px -2px rgba(2, 132, 199, 0.25) !important;
+  z-index: 1000 !important;
+}
+
+.map-company-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.map-company-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* 抽屉平滑动效 */
+.drawer-transition {
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+}
+
+/* 自定义浅色滚动条 */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.4);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(2, 132, 199, 0.6);
+}
+
+/* 视频外框 */
+.video-hud-wrapper {
+  position: relative;
+  border: 1px solid #cbd5e1;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+}
