@@ -1,8 +1,8 @@
 # 数据中心来源核验记录
 
-核查日期：2026-11-02。53 条档案，105 个不同来源链接。
+核查日期：2026-11-02。53 条档案，108 个不同来源链接。
 
-官网与项目公告优先；同一公告转载不算独立信源。新闻用于交叉核对；X 官方与专家帖子区分陈述和估算；维基用于背景与原始引文。核查日期 2026-11-02，不代表实时更新。
+官网与项目公告优先；同一公告转载不算独立信源。新闻用于交叉核对；X 官方与专家帖子区分陈述和估算；维基用于背景与原始引文。持续更新中；本版核查日期 2026-11-02，不代表实时自动更新。
 
 这是一次有日期的公开资料核查，并非自动持续监测。项目未必拥有所有类型的来源；没有公开证据的字段保留未知。
 
@@ -136,18 +136,21 @@
 - [鸿海：高雄先进计算中心](https://www.foxconn.com/en-us/press-center/press-releases/latest-news/1350) — 官方 / 项目；发布：2024-06-04；支持范围：高雄位置、Blackwell 平台计划；读取情况：公开页面或检索摘录
 - [NVIDIA：台湾 AI Factory](https://nvidianews.nvidia.com/news/foxconn-ai-factory-tsmc-taiwan-nvidia) — 官方 / 项目；发布：2025-05-18；支持范围：台湾项目计划 1 万颗 Blackwell；非高雄单站已安装量；读取情况：公开页面或检索摘录
 
-## Colossus 2 (巨人二号算力集群)
+## SpaceX Colossus 2 · 当前已知 AI 算力领先
 
 - 结论：多份资料 / 独立性见说明
-- 容量：未核实 / 未披露
-- 芯片：NVIDIA GB200 / GB300；当前卡数与配比未统一
-- 说明：Colossus 1 与 2 的卡数必须分开。公开文件、官方社交表述和第三方估算的规模不同，暂不提供单一已投运 MW。
+- 容量：官方单站当前容量未统一；Epoch 估算 946 MW（不计入汇总）
+- 芯片：NVIDIA B200 / B300（Epoch 估算）；111.2 万 H100e，非 GPU 张数
+- 说明：截至 2026-11-02 核查，按 Epoch AI 当前已知项目的估算 AI 算力，Colossus 2 为最大，约 111.2 万 H100e。H100e 是等效算力，不是 GPU 张数。Epoch 估算当前 IT 容量约 946 MW；按该指标，New Carlisle 约 1,037 MW 更大。远期 1,531 MW / 182.4 万 H100e 属于预测，不计为当前投运。Colossus 1 与 2 不合并统计。
 
 - [SpaceX：公司招股说明书](https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf) — 官方 / 项目；发布：2026-06-05；支持范围：Colossus 后续集群 GB200 披露；历史时点，非当前总量；读取情况：公开页面或检索摘录
 - [Elon Musk：Colossus 2 投运帖](https://x.com/elonmusk/status/2012500968571637891) — X / 待复核；发布：见原帖；支持范围：负责人陈述；原帖尚未直读；读取情况：原帖返回 403；仅找到外部引用，不纳入已验证证据
 - [S.E. Robinson：现场 / 电源跟踪](https://x.com/SERobinsonJr/status/1941502884702523672) — X / 待复核；发布：见原帖；支持范围：第三方观察线索；不是官方实测容量；读取情况：原帖返回 403；仅找到外部引用，不纳入已验证证据
 - [Tom’s Hardware：容量争议](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-colossus-2-is-nowhere-near-1-gigawatt-capacity-satellite-imagery-suggests-despite-claims-site-only-has-350-megawatts-of-cooling-capacity) — 新闻 / 独立报道；发布：2026-01-21；支持范围：2026 年 1 月声明与估算存在差异；不代表 11 月现状；读取情况：公开页面或检索摘录
 - [Colossus 项目与引文](https://en.wikipedia.org/wiki/Colossus_(data_center)) — 维基百科；发布：未标明；支持范围：背景与参考文献入口，不作为容量或芯片独立确认；读取情况：公开页面或检索摘录
+- [Epoch AI：Colossus 2 当前与预测规模](https://epoch.ai/data/ai-data-centers/directory/colossus-2) — 研究 / 模型估算；发布：2026-07-30；支持范围：当前约 111.2 万 H100e / 946 MW；芯片型号为研究估计；未来规模另列；读取情况：公开页面或检索摘录
+- [Epoch AI：当前 IT 功率容量排名](https://epoch.ai/graphs/largest-ai-data-centers-by-power-capacity) — 研究 / 模型估算；发布：2026-11-01；支持范围：2026 年 11 月：New Carlisle 1,037 MW、Colossus 2 946 MW；容量而非实时用电；读取情况：公开页面或检索摘录
+- [Epoch AI：最大已知 AI 数据中心算力](https://epoch.ai/) — 研究 / 模型估算；发布：2026-11-02；支持范围：当前已知最大项目约 110 万 H100 等效算力；与 Colossus 2 档案对应；读取情况：公开页面或检索摘录
 
 ## Starbase 超级 AI 算力中心
 

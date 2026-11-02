@@ -1,6 +1,6 @@
 {
   "checked": "2026-11-02",
-  "policy": "官网与项目公告优先；同一公告转载不算独立信源。新闻用于交叉核对；X 官方与专家帖子区分陈述和估算；维基用于背景与原始引文。核查日期 2026-11-02，不代表实时更新。",
+  "policy": "官网与项目公告优先；同一公告转载不算独立信源。新闻用于交叉核对；X 官方与专家帖子区分陈述和估算；维基用于背景与原始引文。持续更新中；本版核查日期 2026-11-02，不代表实时自动更新。",
   "projects": [
     {
       "id": "deepseek-ulanchab-firefly",
@@ -1052,7 +1052,7 @@
     },
     {
       "id": "colossus-2-memphis",
-      "name": "Colossus 2 (巨人二号算力集群)",
+      "name": "SpaceX Colossus 2 · 当前已知 AI 算力领先",
       "company": "SpaceX（原 xAI，保留 xAI 搜索别名）",
       "companyTag": "SpaceX",
       "category": "科技巨头",
@@ -1061,14 +1061,14 @@
       "lat": 34.9982,
       "lng": -90.0456,
       "investment": "单站投资未核实",
-      "powerMW": "未核实 / 未披露",
-      "gpuCount": "NVIDIA GB200 / GB300；当前卡数与配比未统一",
+      "powerMW": "官方单站当前容量未统一；Epoch 估算 946 MW（不计入汇总）",
+      "gpuCount": "NVIDIA B200 / B300（Epoch 估算）；111.2 万 H100e，非 GPU 张数",
       "status": "operational",
       "statusText": "有运营记录 · 规模见来源",
       "cooling": "见项目来源；未核实原记录的工程参数",
       "powerSource": "见项目来源；未核实原记录的能源比例",
       "footprint": "地图为区域示意位置；不用于机房导航",
-      "description": "Colossus 1 与 2 的卡数必须分开。公开文件、官方社交表述和第三方估算的规模不同，暂不提供单一已投运 MW。",
+      "description": "截至 2026-11-02 核查，按 Epoch AI 当前已知项目的估算 AI 算力，Colossus 2 为最大，约 111.2 万 H100e。H100e 是等效算力，不是 GPU 张数。Epoch 估算当前 IT 容量约 946 MW；按该指标，New Carlisle 约 1,037 MW 更大。远期 1,531 MW / 182.4 万 H100e 属于预测，不计为当前投运。Colossus 1 与 2 不合并统计。",
       "videoUrl": "media/colossus2_analysis.mp4",
       "videoTitle": "Colossus 2 卫星航拍与模块化扩建规划深度解析（带中文字幕）",
       "images": [
@@ -1094,18 +1094,38 @@
         [
           "Colossus 项目与引文",
           "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+        ],
+        [
+          "Epoch AI：Colossus 2 当前与预测规模",
+          "https://epoch.ai/data/ai-data-centers/directory/colossus-2"
+        ],
+        [
+          "Epoch AI：当前 IT 功率容量排名",
+          "https://epoch.ai/graphs/largest-ai-data-centers-by-power-capacity"
+        ],
+        [
+          "Epoch AI：最大已知 AI 数据中心算力",
+          "https://epoch.ai/"
         ]
       ],
-      "verification": "Colossus 1 与 2 的卡数必须分开。公开文件、官方社交表述和第三方估算的规模不同，暂不提供单一已投运 MW。",
+      "verification": "截至 2026-11-02 核查，按 Epoch AI 当前已知项目的估算 AI 算力，Colossus 2 为最大，约 111.2 万 H100e。H100e 是等效算力，不是 GPU 张数。Epoch 估算当前 IT 容量约 946 MW；按该指标，New Carlisle 约 1,037 MW 更大。远期 1,531 MW / 182.4 万 H100e 属于预测，不计为当前投运。Colossus 1 与 2 不合并统计。",
       "reviewedAt": "2026-11-02",
       "chipEvidence": {
-        "level": "项目级 / 范围见证据",
-        "summary": "NVIDIA GB200 / GB300；当前卡数与配比未统一",
+        "level": "研究模型估算 / 非官方清单",
+        "summary": "NVIDIA B200 / B300（Epoch 估算）；111.2 万 H100e，非 GPU 张数",
         "note": "有型号不等于完整芯片组成；未公开数量或占比不推算。计划部署与已交付请按来源日期区分。",
         "sources": [
           [
-            "SpaceX：公司招股说明书",
-            "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf"
+            "Epoch AI：Colossus 2 当前与预测规模",
+            "https://epoch.ai/data/ai-data-centers/directory/colossus-2"
+          ],
+          [
+            "Epoch AI：当前 IT 功率容量排名",
+            "https://epoch.ai/graphs/largest-ai-data-centers-by-power-capacity"
+          ],
+          [
+            "Epoch AI：最大已知 AI 数据中心算力",
+            "https://epoch.ai/"
           ]
         ]
       },
@@ -1117,8 +1137,17 @@
         "status": "construction",
         "description": "马斯克旗下 xAI 打造的全球最高算力密度集群之一。由旧冷库改造的 Macro Harder 与高密度集约化的 Mini Hard 组成，跨越田纳西与密西西比州界。已自备燃气电厂与千台 Megapack 储能以解决并网电力瓶颈，规划后续 H 型 5 号与 6 号数据中心扩建。"
       },
+      "computeEstimate": {
+        "h100e": 1112000,
+        "itMW": 946,
+        "asOf": "2026-07-30",
+        "checked": "2026-11-02",
+        "source": "Epoch AI",
+        "method": "研究模型估算",
+        "includeInOfficialTotals": false
+      },
       "evidence": {
-        "note": "Colossus 1 与 2 的卡数必须分开。公开文件、官方社交表述和第三方估算的规模不同，暂不提供单一已投运 MW。",
+        "note": "截至 2026-11-02 核查，按 Epoch AI 当前已知项目的估算 AI 算力，Colossus 2 为最大，约 111.2 万 H100e。H100e 是等效算力，不是 GPU 张数。Epoch 估算当前 IT 容量约 946 MW；按该指标，New Carlisle 约 1,037 MW 更大。远期 1,531 MW / 182.4 万 H100e 属于预测，不计为当前投运。Colossus 1 与 2 不合并统计。",
         "sources": [
           {
             "type": "官方 / 项目",
@@ -1162,6 +1191,33 @@
             "url": "https://en.wikipedia.org/wiki/Colossus_(data_center)",
             "scope": "背景与参考文献入口，不作为容量或芯片独立确认",
             "date": "未标明",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "研究 / 模型估算",
+            "title": "Epoch AI：Colossus 2 当前与预测规模",
+            "url": "https://epoch.ai/data/ai-data-centers/directory/colossus-2",
+            "scope": "当前约 111.2 万 H100e / 946 MW；芯片型号为研究估计；未来规模另列",
+            "date": "2026-07-30",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "研究 / 模型估算",
+            "title": "Epoch AI：当前 IT 功率容量排名",
+            "url": "https://epoch.ai/graphs/largest-ai-data-centers-by-power-capacity",
+            "scope": "2026 年 11 月：New Carlisle 1,037 MW、Colossus 2 946 MW；容量而非实时用电",
+            "date": "2026-11-01",
+            "access": "公开页面或检索摘录",
+            "checked": "2026-11-02"
+          },
+          {
+            "type": "研究 / 模型估算",
+            "title": "Epoch AI：最大已知 AI 数据中心算力",
+            "url": "https://epoch.ai/",
+            "scope": "当前已知最大项目约 110 万 H100 等效算力；与 Colossus 2 档案对应",
+            "date": "2026-11-02",
             "access": "公开页面或检索摘录",
             "checked": "2026-11-02"
           }
